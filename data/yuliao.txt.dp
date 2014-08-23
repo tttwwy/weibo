@@ -1,0 +1,3430 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="从 酒窖 到 醒酒器 再 到 假日 主题 的 葡萄酒 配件 ， 现在 的 葡萄酒 礼物 真 的 是 多 如 牛毛 。">
+                <word id="0" cont="从" pos="p" parent="2" relate="ADV" />
+                <word id="1" cont="酒窖" pos="n" parent="0" relate="POB" />
+                <word id="2" cont="到" pos="p" parent="15" relate="ATT" />
+                <word id="3" cont="醒酒器" pos="n" parent="2" relate="POB" />
+                <word id="4" cont="再" pos="d" parent="5" relate="ADV" />
+                <word id="5" cont="到" pos="p" parent="2" relate="COO" />
+                <word id="6" cont="假日" pos="n" parent="7" relate="ATT" />
+                <word id="7" cont="主题" pos="n" parent="10" relate="ATT" />
+                <word id="8" cont="的" pos="u" parent="7" relate="RAD" />
+                <word id="9" cont="葡萄酒" pos="n" parent="10" relate="ATT" />
+                <word id="10" cont="配件" pos="n" parent="5" relate="POB" />
+                <word id="11" cont="，" pos="wp" parent="2" relate="WP" />
+                <word id="12" cont="现在" pos="nt" parent="14" relate="ATT" />
+                <word id="13" cont="的" pos="u" parent="12" relate="RAD" />
+                <word id="14" cont="葡萄酒" pos="n" parent="15" relate="ATT" />
+                <word id="15" cont="礼物" pos="n" parent="18" relate="SBV" />
+                <word id="16" cont="真" pos="a" parent="18" relate="ATT" />
+                <word id="17" cont="的" pos="u" parent="16" relate="RAD" />
+                <word id="18" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="19" cont="多" pos="d" parent="20" relate="ADV" />
+                <word id="20" cont="如" pos="v" parent="18" relate="VOB" />
+                <word id="21" cont="牛毛" pos="n" parent="20" relate="POB" />
+                <word id="22" cont="。" pos="wp" parent="18" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="只 有 没 有 想象力 的 人才 找 不 到 好 理由 来 喝 香槟">
+                <word id="0" cont="只" pos="d" parent="1" relate="ADV" />
+                <word id="1" cont="有" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="没" pos="d" parent="3" relate="ADV" />
+                <word id="3" cont="有" pos="v" parent="6" relate="ATT" />
+                <word id="4" cont="想象力" pos="n" parent="3" relate="VOB" />
+                <word id="5" cont="的" pos="u" parent="3" relate="RAD" />
+                <word id="6" cont="人才" pos="n" parent="1" relate="DBL" />
+                <word id="7" cont="找" pos="v" parent="1" relate="COO" />
+                <word id="8" cont="不" pos="d" parent="9" relate="ADV" />
+                <word id="9" cont="到" pos="v" parent="7" relate="CMP" />
+                <word id="10" cont="好" pos="a" parent="11" relate="ATT" />
+                <word id="11" cont="理由" pos="n" parent="7" relate="VOB" />
+                <word id="12" cont="来" pos="v" parent="13" relate="ADV" />
+                <word id="13" cont="喝" pos="v" parent="7" relate="COO" />
+                <word id="14" cont="香槟" pos="n" parent="13" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="软木塞 对 葡萄酒 意味着 什么">
+                <word id="0" cont="软木塞" pos="n" parent="3" relate="SBV" />
+                <word id="1" cont="对" pos="p" parent="3" relate="ADV" />
+                <word id="2" cont="葡萄酒" pos="n" parent="1" relate="POB" />
+                <word id="3" cont="意味着" pos="v" parent="-1" relate="HED" />
+                <word id="4" cont="什么" pos="r" parent="3" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="葡萄 酒瓶 底 为何 是 凹 进去 的">
+                <word id="0" cont="葡萄" pos="n" parent="1" relate="ATT" />
+                <word id="1" cont="酒瓶" pos="n" parent="2" relate="ATT" />
+                <word id="2" cont="底" pos="nd" parent="4" relate="ADV" />
+                <word id="3" cont="为何" pos="r" parent="4" relate="ADV" />
+                <word id="4" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="5" cont="凹" pos="a" parent="4" relate="VOB" />
+                <word id="6" cont="进去" pos="v" parent="5" relate="CMP" />
+                <word id="7" cont="的" pos="u" parent="5" relate="RAD" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="九 成 苹果 醋 为 三 精 一 水 勾兑 而 成">
+                <word id="0" cont="九" pos="m" parent="1" relate="ATT" />
+                <word id="1" cont="成" pos="q" parent="3" relate="ATT" />
+                <word id="2" cont="苹果" pos="n" parent="3" relate="ATT" />
+                <word id="3" cont="醋" pos="n" parent="9" relate="SBV" />
+                <word id="4" cont="为" pos="v" parent="9" relate="ADV" />
+                <word id="5" cont="三" pos="m" parent="6" relate="ATT" />
+                <word id="6" cont="精" pos="a" parent="8" relate="ATT" />
+                <word id="7" cont="一" pos="m" parent="8" relate="ATT" />
+                <word id="8" cont="水" pos="n" parent="4" relate="VOB" />
+                <word id="9" cont="勾兑" pos="v" parent="-1" relate="HED" />
+                <word id="10" cont="而" pos="c" parent="11" relate="ADV" />
+                <word id="11" cont="成" pos="v" parent="9" relate="COO" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="联通 iPhone 不 与 苹果 分成">
+                <word id="0" cont="联通" pos="j" parent="1" relate="ATT" />
+                <word id="1" cont="iPhone" pos="ws" parent="5" relate="SBV" />
+                <word id="2" cont="不" pos="d" parent="5" relate="ADV" />
+                <word id="3" cont="与" pos="p" parent="5" relate="ADV" />
+                <word id="4" cont="苹果" pos="n" parent="3" relate="POB" />
+                <word id="5" cont="分成" pos="v" parent="-1" relate="HED" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="大 董 烤鸭 诗意 空间 里 的 意境 菜">
+                <word id="0" cont="大" pos="a" parent="1" relate="ATT" />
+                <word id="1" cont="董" pos="nh" parent="8" relate="ATT" />
+                <word id="2" cont="烤鸭" pos="n" parent="4" relate="ATT" />
+                <word id="3" cont="诗意" pos="n" parent="4" relate="ATT" />
+                <word id="4" cont="空间" pos="n" parent="5" relate="ATT" />
+                <word id="5" cont="里" pos="nd" parent="7" relate="ATT" />
+                <word id="6" cont="的" pos="u" parent="5" relate="RAD" />
+                <word id="7" cont="意境" pos="n" parent="8" relate="ATT" />
+                <word id="8" cont="菜" pos="n" parent="-1" relate="HED" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="西澳州 向 印度 推销 葡萄酒 旅游">
+                <word id="0" cont="西澳州" pos="ns" parent="3" relate="SBV" />
+                <word id="1" cont="向" pos="p" parent="3" relate="ADV" />
+                <word id="2" cont="印度" pos="ns" parent="1" relate="POB" />
+                <word id="3" cont="推销" pos="v" parent="-1" relate="HED" />
+                <word id="4" cont="葡萄酒" pos="n" parent="3" relate="VOB" />
+                <word id="5" cont="旅游" pos="v" parent="3" relate="COO" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="中午 吃 了 蒸 功夫 ， 明天 转战 永和 ， 我 的 微博客 永远 和 吃 有关 。">
+                <word id="0" cont="中午" pos="nt" parent="1" relate="ADV" />
+                <word id="1" cont="吃" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="了" pos="u" parent="1" relate="RAD" />
+                <word id="3" cont="蒸" pos="v" parent="4" relate="ATT" />
+                <word id="4" cont="功夫" pos="n" parent="1" relate="VOB" />
+                <word id="5" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="6" cont="明天" pos="nt" parent="7" relate="ADV" />
+                <word id="7" cont="转战" pos="v" parent="1" relate="COO" />
+                <word id="8" cont="永和" pos="ns" parent="7" relate="VOB" />
+                <word id="9" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="10" cont="我" pos="r" parent="12" relate="ATT" />
+                <word id="11" cont="的" pos="u" parent="10" relate="RAD" />
+                <word id="12" cont="微博客" pos="n" parent="16" relate="SBV" />
+                <word id="13" cont="永远" pos="d" parent="16" relate="ADV" />
+                <word id="14" cont="和" pos="p" parent="16" relate="ADV" />
+                <word id="15" cont="吃" pos="v" parent="14" relate="POB" />
+                <word id="16" cont="有关" pos="v" parent="1" relate="COO" />
+                <word id="17" cont="。" pos="wp" parent="1" relate="WP" />
+            </sent>
+            <sent id="1" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="2" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="法国 博客 网站 披露 苹果 平板 电脑 图片 ( 图 )">
+                <word id="0" cont="法国" pos="ns" parent="1" relate="ATT" />
+                <word id="1" cont="博客" pos="n" parent="2" relate="ATT" />
+                <word id="2" cont="网站" pos="n" parent="3" relate="SBV" />
+                <word id="3" cont="披露" pos="v" parent="-1" relate="HED" />
+                <word id="4" cont="苹果" pos="n" parent="5" relate="ATT" />
+                <word id="5" cont="平板" pos="n" parent="6" relate="ATT" />
+                <word id="6" cont="电脑" pos="n" parent="7" relate="ATT" />
+                <word id="7" cont="图片" pos="n" parent="9" relate="ATT" />
+                <word id="8" cont="(" pos="wp" parent="9" relate="WP" />
+                <word id="9" cont="图" pos="n" parent="3" relate="VOB" />
+                <word id="10" cont=")" pos="wp" parent="3" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="粉丝 ， 快来 ~ ~ ~ ~ ~ ~ ~ ~ 再 加 多 点 牛肉 。">
+                <word id="0" cont="粉丝" pos="n" parent="3" relate="SBV" />
+                <word id="1" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="2" cont="快来" pos="d" parent="3" relate="ADV" />
+                <word id="3" cont="~" pos="v" parent="-1" relate="HED" />
+                <word id="4" cont="~" pos="n" parent="3" relate="VOB" />
+                <word id="5" cont="~" pos="v" parent="3" relate="COO" />
+                <word id="6" cont="~" pos="n" parent="5" relate="VOB" />
+                <word id="7" cont="~" pos="v" parent="5" relate="COO" />
+                <word id="8" cont="~" pos="n" parent="7" relate="VOB" />
+                <word id="9" cont="~" pos="v" parent="5" relate="COO" />
+                <word id="10" cont="~" pos="n" parent="9" relate="VOB" />
+                <word id="11" cont="再" pos="d" parent="12" relate="ADV" />
+                <word id="12" cont="加" pos="v" parent="5" relate="COO" />
+                <word id="13" cont="多" pos="m" parent="14" relate="ATT" />
+                <word id="14" cont="点" pos="q" parent="15" relate="ATT" />
+                <word id="15" cont="牛肉" pos="n" parent="12" relate="VOB" />
+                <word id="16" cont="。" pos="wp" parent="3" relate="WP" />
+            </sent>
+            <sent id="1" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="2" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="不要 单恋 奶 ， 奶 只 是 个 二 奶">
+                <word id="0" cont="不要" pos="d" parent="1" relate="ADV" />
+                <word id="1" cont="单恋" pos="v" parent="6" relate="SBV" />
+                <word id="2" cont="奶" pos="n" parent="1" relate="VOB" />
+                <word id="3" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="4" cont="奶" pos="n" parent="6" relate="SBV" />
+                <word id="5" cont="只" pos="d" parent="6" relate="ADV" />
+                <word id="6" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="7" cont="个" pos="q" parent="9" relate="ATT" />
+                <word id="8" cont="二" pos="m" parent="9" relate="ATT" />
+                <word id="9" cont="奶" pos="n" parent="6" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="开 着 宝马 吃 油条 不 算 最 土 ， 最 土 的 是 几千 元 的 鲍鱼 摆 在 我 面前 ， 吃 完 后 大呼 ： 好好 吃 的 蘑菇 呀 。">
+                <word id="0" cont="开" pos="v" parent="-1" relate="HED" />
+                <word id="1" cont="着" pos="u" parent="0" relate="RAD" />
+                <word id="2" cont="宝马" pos="nz" parent="4" relate="ATT" />
+                <word id="3" cont="吃" pos="v" parent="4" relate="ATT" />
+                <word id="4" cont="油条" pos="n" parent="0" relate="VOB" />
+                <word id="5" cont="不" pos="d" parent="6" relate="ADV" />
+                <word id="6" cont="算" pos="v" parent="0" relate="COO" />
+                <word id="7" cont="最" pos="d" parent="8" relate="ADV" />
+                <word id="8" cont="土" pos="a" parent="6" relate="CMP" />
+                <word id="9" cont="，" pos="wp" parent="6" relate="WP" />
+                <word id="10" cont="最" pos="d" parent="11" relate="ADV" />
+                <word id="11" cont="土" pos="a" parent="13" relate="SBV" />
+                <word id="12" cont="的" pos="u" parent="11" relate="RAD" />
+                <word id="13" cont="是" pos="v" parent="6" relate="COO" />
+                <word id="14" cont="几千" pos="m" parent="15" relate="ATT" />
+                <word id="15" cont="元" pos="q" parent="17" relate="ATT" />
+                <word id="16" cont="的" pos="u" parent="15" relate="RAD" />
+                <word id="17" cont="鲍鱼" pos="n" parent="18" relate="FOB" />
+                <word id="18" cont="摆" pos="v" parent="13" relate="VOB" />
+                <word id="19" cont="在" pos="p" parent="18" relate="CMP" />
+                <word id="20" cont="我" pos="r" parent="21" relate="ATT" />
+                <word id="21" cont="面前" pos="nd" parent="19" relate="POB" />
+                <word id="22" cont="，" pos="wp" parent="18" relate="WP" />
+                <word id="23" cont="吃" pos="v" parent="25" relate="ATT" />
+                <word id="24" cont="完" pos="v" parent="23" relate="CMP" />
+                <word id="25" cont="后" pos="nd" parent="26" relate="ADV" />
+                <word id="26" cont="大呼" pos="v" parent="18" relate="COO" />
+                <word id="27" cont="：" pos="wp" parent="13" relate="WP" />
+                <word id="28" cont="好好" pos="d" parent="29" relate="ADV" />
+                <word id="29" cont="吃" pos="v" parent="31" relate="ATT" />
+                <word id="30" cont="的" pos="u" parent="29" relate="RAD" />
+                <word id="31" cont="蘑菇" pos="n" parent="6" relate="VOB" />
+                <word id="32" cont="呀" pos="u" parent="6" relate="RAD" />
+                <word id="33" cont="。" pos="wp" parent="0" relate="WP" />
+            </sent>
+            <sent id="1" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="2" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="3" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="4" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="5" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="虽然 还是 没 食欲 ， 为了 避免 病倒 决定 中午 出去 吃 点 饭 了 ， 上次 吃饭 是 前天 晚上 六点 多 吃 的 几 口 凉菜 和 蘑菇 ， 上次 吃 主食 得 是 前天 中午 在 飞机 上 吃 的 面条 了">
+                <word id="0" cont="虽然" pos="c" parent="2" relate="ADV" />
+                <word id="1" cont="还是" pos="d" parent="2" relate="ADV" />
+                <word id="2" cont="没" pos="v" parent="18" relate="SBV" />
+                <word id="3" cont="食欲" pos="n" parent="2" relate="VOB" />
+                <word id="4" cont="，" pos="wp" parent="2" relate="WP" />
+                <word id="5" cont="为了" pos="p" parent="18" relate="ADV" />
+                <word id="6" cont="避免" pos="v" parent="5" relate="POB" />
+                <word id="7" cont="病倒" pos="v" parent="6" relate="VOB" />
+                <word id="8" cont="决定" pos="v" parent="6" relate="COO" />
+                <word id="9" cont="中午" pos="nt" parent="11" relate="ADV" />
+                <word id="10" cont="出去" pos="v" parent="11" relate="ADV" />
+                <word id="11" cont="吃" pos="v" parent="8" relate="VOB" />
+                <word id="12" cont="点" pos="q" parent="13" relate="ATT" />
+                <word id="13" cont="饭" pos="n" parent="11" relate="VOB" />
+                <word id="14" cont="了" pos="u" parent="11" relate="RAD" />
+                <word id="15" cont="，" pos="wp" parent="5" relate="WP" />
+                <word id="16" cont="上次" pos="nt" parent="17" relate="ADV" />
+                <word id="17" cont="吃饭" pos="v" parent="18" relate="SBV" />
+                <word id="18" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="19" cont="前天" pos="nt" parent="21" relate="ATT" />
+                <word id="20" cont="晚上" pos="nt" parent="21" relate="ATT" />
+                <word id="21" cont="六点" pos="nt" parent="23" relate="ADV" />
+                <word id="22" cont="多" pos="d" parent="23" relate="ADV" />
+                <word id="23" cont="吃" pos="v" parent="27" relate="ATT" />
+                <word id="24" cont="的" pos="u" parent="23" relate="RAD" />
+                <word id="25" cont="几" pos="m" parent="26" relate="ATT" />
+                <word id="26" cont="口" pos="q" parent="27" relate="ATT" />
+                <word id="27" cont="凉菜" pos="n" parent="18" relate="VOB" />
+                <word id="28" cont="和" pos="c" parent="29" relate="LAD" />
+                <word id="29" cont="蘑菇" pos="n" parent="27" relate="COO" />
+                <word id="30" cont="，" pos="wp" parent="18" relate="WP" />
+                <word id="31" cont="上次" pos="nt" parent="32" relate="ADV" />
+                <word id="32" cont="吃" pos="v" parent="35" relate="SBV" />
+                <word id="33" cont="主食" pos="n" parent="32" relate="VOB" />
+                <word id="34" cont="得" pos="u" parent="32" relate="RAD" />
+                <word id="35" cont="是" pos="v" parent="18" relate="COO" />
+                <word id="36" cont="前天" pos="nt" parent="37" relate="ATT" />
+                <word id="37" cont="中午" pos="nt" parent="41" relate="ADV" />
+                <word id="38" cont="在" pos="p" parent="41" relate="ADV" />
+                <word id="39" cont="飞机" pos="n" parent="40" relate="ATT" />
+                <word id="40" cont="上" pos="nd" parent="38" relate="POB" />
+                <word id="41" cont="吃" pos="v" parent="43" relate="ATT" />
+                <word id="42" cont="的" pos="u" parent="41" relate="RAD" />
+                <word id="43" cont="面条" pos="n" parent="35" relate="VOB" />
+                <word id="44" cont="了" pos="u" parent="35" relate="RAD" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="新浪 科技 新闻 番茄 花园案 今天 上午 在 苏州 一审 宣判 ， 番茄 花园 盗版 WinXP 作者 洪 磊 被 判 有期徒刑 三 年 半 并 处 罚金 一百万 元 ， 其他 涉案人员 均 被 判刑 罚款 。">
+                <word id="0" cont="新浪" pos="n" parent="1" relate="ATT" />
+                <word id="1" cont="科技" pos="n" parent="2" relate="ATT" />
+                <word id="2" cont="新闻" pos="n" parent="3" relate="ATT" />
+                <word id="3" cont="番茄" pos="n" parent="4" relate="ATT" />
+                <word id="4" cont="花园案" pos="n" parent="10" relate="SBV" />
+                <word id="5" cont="今天" pos="nt" parent="6" relate="ATT" />
+                <word id="6" cont="上午" pos="nt" parent="10" relate="ADV" />
+                <word id="7" cont="在" pos="p" parent="10" relate="ADV" />
+                <word id="8" cont="苏州" pos="ns" parent="9" relate="ATT" />
+                <word id="9" cont="一审" pos="b" parent="7" relate="POB" />
+                <word id="10" cont="宣判" pos="v" parent="-1" relate="HED" />
+                <word id="11" cont="，" pos="wp" parent="10" relate="WP" />
+                <word id="12" cont="番茄" pos="n" parent="13" relate="ATT" />
+                <word id="13" cont="花园" pos="n" parent="17" relate="ATT" />
+                <word id="14" cont="盗版" pos="v" parent="16" relate="ATT" />
+                <word id="15" cont="WinXP" pos="ws" parent="14" relate="VOB" />
+                <word id="16" cont="作者" pos="n" parent="17" relate="ATT" />
+                <word id="17" cont="洪" pos="nh" parent="20" relate="FOB" />
+                <word id="18" cont="磊" pos="nh" parent="17" relate="COO" />
+                <word id="19" cont="被" pos="p" parent="20" relate="ADV" />
+                <word id="20" cont="判" pos="v" parent="10" relate="COO" />
+                <word id="21" cont="有期徒刑" pos="i" parent="24" relate="ATT" />
+                <word id="22" cont="三" pos="m" parent="23" relate="ATT" />
+                <word id="23" cont="年" pos="q" parent="24" relate="ATT" />
+                <word id="24" cont="半" pos="m" parent="20" relate="VOB" />
+                <word id="25" cont="并" pos="c" parent="26" relate="ADV" />
+                <word id="26" cont="处" pos="v" parent="20" relate="COO" />
+                <word id="27" cont="罚金" pos="n" parent="29" relate="ATT" />
+                <word id="28" cont="一百万" pos="m" parent="29" relate="ATT" />
+                <word id="29" cont="元" pos="q" parent="26" relate="VOB" />
+                <word id="30" cont="，" pos="wp" parent="20" relate="WP" />
+                <word id="31" cont="其他" pos="r" parent="32" relate="ATT" />
+                <word id="32" cont="涉案人员" pos="n" parent="35" relate="FOB" />
+                <word id="33" cont="均" pos="d" parent="35" relate="ADV" />
+                <word id="34" cont="被" pos="p" parent="35" relate="ADV" />
+                <word id="35" cont="判刑" pos="v" parent="20" relate="COO" />
+                <word id="36" cont="罚款" pos="v" parent="35" relate="VOB" />
+                <word id="37" cont="。" pos="wp" parent="10" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="公司 售货机 的 锅巴 都 皮 了 .....嚼 的 我 腮帮子 都 累 了">
+                <word id="0" cont="公司" pos="n" parent="1" relate="ATT" />
+                <word id="1" cont="售货机" pos="n" parent="3" relate="ATT" />
+                <word id="2" cont="的" pos="u" parent="1" relate="RAD" />
+                <word id="3" cont="锅巴" pos="n" parent="5" relate="SBV" />
+                <word id="4" cont="都" pos="d" parent="5" relate="ADV" />
+                <word id="5" cont="皮" pos="v" parent="7" relate="ATT" />
+                <word id="6" cont="了" pos="u" parent="5" relate="RAD" />
+                <word id="7" cont=".....嚼" pos="n" parent="10" relate="ATT" />
+                <word id="8" cont="的" pos="u" parent="7" relate="RAD" />
+                <word id="9" cont="我" pos="r" parent="10" relate="ATT" />
+                <word id="10" cont="腮帮子" pos="n" parent="12" relate="SBV" />
+                <word id="11" cont="都" pos="d" parent="12" relate="ADV" />
+                <word id="12" cont="累" pos="v" parent="-1" relate="HED" />
+                <word id="13" cont="了" pos="u" parent="12" relate="RAD" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="黑莓 上 的 opera 登录 一直 是 失败 的 ， 说是 用户 名 密码 不对">
+                <word id="0" cont="黑莓" pos="n" parent="1" relate="ATT" />
+                <word id="1" cont="上" pos="nd" parent="3" relate="ATT" />
+                <word id="2" cont="的" pos="u" parent="1" relate="RAD" />
+                <word id="3" cont="opera" pos="n" parent="4" relate="SBV" />
+                <word id="4" cont="登录" pos="v" parent="6" relate="SBV" />
+                <word id="5" cont="一直" pos="d" parent="6" relate="ADV" />
+                <word id="6" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="7" cont="失败" pos="v" parent="6" relate="VOB" />
+                <word id="8" cont="的" pos="u" parent="7" relate="RAD" />
+                <word id="9" cont="，" pos="wp" parent="7" relate="WP" />
+                <word id="10" cont="说是" pos="v" parent="7" relate="COO" />
+                <word id="11" cont="用户" pos="n" parent="13" relate="ATT" />
+                <word id="12" cont="名" pos="q" parent="13" relate="ATT" />
+                <word id="13" cont="密码" pos="n" parent="14" relate="SBV" />
+                <word id="14" cont="不对" pos="a" parent="10" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="piapia 滴 葱 动 篮球赛 ！">
+                <word id="0" cont="piapia" pos="nh" parent="1" relate="SBV" />
+                <word id="1" cont="滴" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="葱" pos="n" parent="1" relate="VOB" />
+                <word id="3" cont="动" pos="v" parent="1" relate="COO" />
+                <word id="4" cont="篮球赛" pos="n" parent="3" relate="VOB" />
+                <word id="5" cont="！" pos="wp" parent="1" relate="WP" />
+            </sent>
+            <sent id="1" cont="大学生 的 篮球 狂欢 ～ ～ ～">
+                <word id="0" cont="大学生" pos="n" parent="2" relate="ATT" />
+                <word id="1" cont="的" pos="u" parent="0" relate="RAD" />
+                <word id="2" cont="篮球" pos="n" parent="3" relate="SBV" />
+                <word id="3" cont="狂欢" pos="v" parent="-1" relate="HED" />
+                <word id="4" cont="～" pos="n" parent="3" relate="VOB" />
+                <word id="5" cont="～" pos="v" parent="3" relate="COO" />
+                <word id="6" cont="～" pos="n" parent="5" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="# 微博 意见 反馈 # 按钮 在 火狐 下 按 了 以后 的 反应 微弱 ， 需要 改进 。">
+                <word id="0" cont="#" pos="n" parent="1" relate="SBV" />
+                <word id="1" cont="微博" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="意见" pos="n" parent="1" relate="VOB" />
+                <word id="3" cont="反馈" pos="v" parent="1" relate="COO" />
+                <word id="4" cont="#" pos="n" parent="5" relate="ATT" />
+                <word id="5" cont="按钮" pos="n" parent="9" relate="SBV" />
+                <word id="6" cont="在" pos="p" parent="9" relate="ADV" />
+                <word id="7" cont="火狐" pos="n" parent="8" relate="ATT" />
+                <word id="8" cont="下" pos="nd" parent="6" relate="POB" />
+                <word id="9" cont="按" pos="v" parent="11" relate="ADV" />
+                <word id="10" cont="了" pos="u" parent="9" relate="RAD" />
+                <word id="11" cont="以后" pos="nd" parent="13" relate="ADV" />
+                <word id="12" cont="的" pos="u" parent="11" relate="RAD" />
+                <word id="13" cont="反应" pos="v" parent="3" relate="VOB" />
+                <word id="14" cont="微弱" pos="a" parent="13" relate="CMP" />
+                <word id="15" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="16" cont="需要" pos="v" parent="17" relate="ADV" />
+                <word id="17" cont="改进" pos="v" parent="1" relate="COO" />
+                <word id="18" cont="。" pos="wp" parent="1" relate="WP" />
+            </sent>
+            <sent id="1" cont="第一 印象 ， 新浪 微博 有 点 急 。">
+                <word id="0" cont="第一" pos="m" parent="1" relate="ATT" />
+                <word id="1" cont="印象" pos="n" parent="5" relate="ADV" />
+                <word id="2" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="3" cont="新浪" pos="n" parent="5" relate="SBV" />
+                <word id="4" cont="微博" pos="v" parent="5" relate="ADV" />
+                <word id="5" cont="有" pos="v" parent="-1" relate="HED" />
+                <word id="6" cont="点" pos="q" parent="7" relate="ATT" />
+                <word id="7" cont="急" pos="a" parent="5" relate="VOB" />
+                <word id="8" cont="。" pos="wp" parent="5" relate="WP" />
+            </sent>
+            <sent id="2" cont="心急 做 不 出 好 豆腐 。">
+                <word id="0" cont="心急" pos="a" parent="1" relate="ADV" />
+                <word id="1" cont="做" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="不" pos="d" parent="3" relate="ADV" />
+                <word id="3" cont="出" pos="v" parent="1" relate="CMP" />
+                <word id="4" cont="好" pos="a" parent="5" relate="ATT" />
+                <word id="5" cont="豆腐" pos="n" parent="1" relate="VOB" />
+                <word id="6" cont="。" pos="wp" parent="1" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="~ 酷酷 ~ 上 啊 ~ 麦图 给 你 奶 ~ ~ ~">
+                <word id="0" cont="~" pos="v" parent="5" relate="SBV" />
+                <word id="1" cont="酷酷" pos="a" parent="2" relate="ADV" />
+                <word id="2" cont="~" pos="v" parent="3" relate="ATT" />
+                <word id="3" cont="上" pos="nd" parent="5" relate="ATT" />
+                <word id="4" cont="啊" pos="u" parent="3" relate="RAD" />
+                <word id="5" cont="~" pos="v" parent="10" relate="SBV" />
+                <word id="6" cont="麦图" pos="n" parent="5" relate="VOB" />
+                <word id="7" cont="给" pos="p" parent="10" relate="ADV" />
+                <word id="8" cont="你" pos="r" parent="9" relate="ATT" />
+                <word id="9" cont="奶" pos="n" parent="7" relate="POB" />
+                <word id="10" cont="~" pos="v" parent="-1" relate="HED" />
+                <word id="11" cont="~" pos="v" parent="10" relate="COO" />
+                <word id="12" cont="~" pos="n" parent="11" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="处长 说 ： “ 棒子 面儿 的 饼 还 不错 ， 要是 再 有点 咸菜 就 好 了 ！">
+                <word id="0" cont="处长" pos="n" parent="1" relate="SBV" />
+                <word id="1" cont="说" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="：" pos="wp" parent="1" relate="WP" />
+                <word id="3" cont="“" pos="wp" parent="9" relate="WP" />
+                <word id="4" cont="棒子" pos="n" parent="5" relate="ATT" />
+                <word id="5" cont="面儿" pos="n" parent="7" relate="ATT" />
+                <word id="6" cont="的" pos="u" parent="5" relate="RAD" />
+                <word id="7" cont="饼" pos="n" parent="9" relate="SBV" />
+                <word id="8" cont="还" pos="d" parent="9" relate="ADV" />
+                <word id="9" cont="不错" pos="a" parent="1" relate="VOB" />
+                <word id="10" cont="，" pos="wp" parent="9" relate="WP" />
+                <word id="11" cont="要是" pos="c" parent="16" relate="ADV" />
+                <word id="12" cont="再" pos="d" parent="13" relate="ADV" />
+                <word id="13" cont="有点" pos="d" parent="16" relate="ADV" />
+                <word id="14" cont="咸菜" pos="n" parent="16" relate="SBV" />
+                <word id="15" cont="就" pos="d" parent="16" relate="ADV" />
+                <word id="16" cont="好" pos="a" parent="9" relate="COO" />
+                <word id="17" cont="了" pos="u" parent="16" relate="RAD" />
+                <word id="18" cont="！" pos="wp" parent="1" relate="WP" />
+            </sent>
+            <sent id="1" cont="”">
+                <word id="0" cont="”" pos="wp" parent="-1" relate="HED" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="导师 骑 自行车 带 我 去 清华 西门 北 彭氏 烤翅 去 吃 鸡翅 了 。">
+                <word id="0" cont="导师" pos="n" parent="1" relate="SBV" />
+                <word id="1" cont="骑" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="自行车" pos="n" parent="1" relate="VOB" />
+                <word id="3" cont="带" pos="v" parent="1" relate="COO" />
+                <word id="4" cont="我" pos="r" parent="3" relate="DBL" />
+                <word id="5" cont="去" pos="v" parent="3" relate="VOB" />
+                <word id="6" cont="清华" pos="j" parent="5" relate="VOB" />
+                <word id="7" cont="西门" pos="nz" parent="8" relate="ATT" />
+                <word id="8" cont="北" pos="nd" parent="10" relate="ATT" />
+                <word id="9" cont="彭氏" pos="nh" parent="10" relate="SBV" />
+                <word id="10" cont="烤翅" pos="v" parent="3" relate="COO" />
+                <word id="11" cont="去" pos="v" parent="10" relate="CMP" />
+                <word id="12" cont="吃" pos="v" parent="10" relate="COO" />
+                <word id="13" cont="鸡翅" pos="n" parent="12" relate="VOB" />
+                <word id="14" cont="了" pos="u" parent="12" relate="RAD" />
+                <word id="15" cont="。" pos="wp" parent="3" relate="WP" />
+            </sent>
+            <sent id="1" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="2" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="今天 我 很 不 开心 ， 很 想 吃 多多 的 东西 ！">
+                <word id="0" cont="今天" pos="nt" parent="4" relate="ADV" />
+                <word id="1" cont="我" pos="r" parent="4" relate="SBV" />
+                <word id="2" cont="很" pos="d" parent="4" relate="ADV" />
+                <word id="3" cont="不" pos="d" parent="4" relate="ADV" />
+                <word id="4" cont="开心" pos="a" parent="-1" relate="HED" />
+                <word id="5" cont="，" pos="wp" parent="4" relate="WP" />
+                <word id="6" cont="很" pos="d" parent="7" relate="ADV" />
+                <word id="7" cont="想" pos="v" parent="4" relate="COO" />
+                <word id="8" cont="吃" pos="v" parent="7" relate="VOB" />
+                <word id="9" cont="多多" pos="m" parent="11" relate="ATT" />
+                <word id="10" cont="的" pos="u" parent="9" relate="RAD" />
+                <word id="11" cont="东西" pos="n" parent="8" relate="VOB" />
+                <word id="12" cont="！" pos="wp" parent="4" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="一 日 吃 三 枣 ， 青春 永不老 ， 我 正在 吃 枣 。">
+                <word id="0" cont="一" pos="m" parent="1" relate="ATT" />
+                <word id="1" cont="日" pos="q" parent="2" relate="ADV" />
+                <word id="2" cont="吃" pos="v" parent="-1" relate="HED" />
+                <word id="3" cont="三" pos="m" parent="4" relate="ATT" />
+                <word id="4" cont="枣" pos="n" parent="2" relate="VOB" />
+                <word id="5" cont="，" pos="wp" parent="2" relate="WP" />
+                <word id="6" cont="青春" pos="n" parent="7" relate="SBV" />
+                <word id="7" cont="永不老" pos="i" parent="2" relate="COO" />
+                <word id="8" cont="，" pos="wp" parent="2" relate="WP" />
+                <word id="9" cont="我" pos="r" parent="11" relate="SBV" />
+                <word id="10" cont="正在" pos="d" parent="11" relate="ADV" />
+                <word id="11" cont="吃" pos="v" parent="2" relate="COO" />
+                <word id="12" cont="枣" pos="n" parent="11" relate="VOB" />
+                <word id="13" cont="。" pos="wp" parent="2" relate="WP" />
+            </sent>
+            <sent id="1" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="2" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="新鲜事 啊 ， 我 今天 吃 冰激凌 了 ， 算 不 算 ？">
+                <word id="0" cont="新鲜事" pos="n" parent="5" relate="ADV" />
+                <word id="1" cont="啊" pos="u" parent="0" relate="RAD" />
+                <word id="2" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="3" cont="我" pos="r" parent="5" relate="SBV" />
+                <word id="4" cont="今天" pos="nt" parent="5" relate="ADV" />
+                <word id="5" cont="吃" pos="v" parent="-1" relate="HED" />
+                <word id="6" cont="冰激凌" pos="n" parent="5" relate="VOB" />
+                <word id="7" cont="了" pos="u" parent="5" relate="RAD" />
+                <word id="8" cont="，" pos="wp" parent="5" relate="WP" />
+                <word id="9" cont="算" pos="v" parent="5" relate="COO" />
+                <word id="10" cont="不" pos="d" parent="11" relate="ADV" />
+                <word id="11" cont="算" pos="v" parent="9" relate="COO" />
+                <word id="12" cont="？" pos="wp" parent="5" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="突然 回忆 起 小时候 的 儿童 片 叫 咔咔 的 故事 ， 可是 找 不 到 。">
+                <word id="0" cont="突然" pos="a" parent="1" relate="ADV" />
+                <word id="1" cont="回忆" pos="v" parent="7" relate="SBV" />
+                <word id="2" cont="起" pos="v" parent="1" relate="CMP" />
+                <word id="3" cont="小时候" pos="nt" parent="6" relate="ATT" />
+                <word id="4" cont="的" pos="u" parent="3" relate="RAD" />
+                <word id="5" cont="儿童" pos="n" parent="6" relate="ATT" />
+                <word id="6" cont="片" pos="n" parent="1" relate="VOB" />
+                <word id="7" cont="叫" pos="v" parent="-1" relate="HED" />
+                <word id="8" cont="咔咔" pos="nh" parent="10" relate="ATT" />
+                <word id="9" cont="的" pos="u" parent="8" relate="RAD" />
+                <word id="10" cont="故事" pos="n" parent="7" relate="VOB" />
+                <word id="11" cont="，" pos="wp" parent="7" relate="WP" />
+                <word id="12" cont="可是" pos="d" parent="13" relate="ADV" />
+                <word id="13" cont="找" pos="v" parent="7" relate="COO" />
+                <word id="14" cont="不" pos="d" parent="15" relate="ADV" />
+                <word id="15" cont="到" pos="v" parent="13" relate="CMP" />
+                <word id="16" cont="。" pos="wp" parent="7" relate="WP" />
+            </sent>
+            <sent id="1" cont="谁 有 的 话 给 借 我 说 下 ， 谢谢 啦 。">
+                <word id="0" cont="谁" pos="r" parent="1" relate="SBV" />
+                <word id="1" cont="有" pos="v" parent="3" relate="ATT" />
+                <word id="2" cont="的" pos="u" parent="1" relate="RAD" />
+                <word id="3" cont="话" pos="n" parent="5" relate="SBV" />
+                <word id="4" cont="给" pos="v" parent="5" relate="ADV" />
+                <word id="5" cont="借" pos="v" parent="-1" relate="HED" />
+                <word id="6" cont="我" pos="r" parent="5" relate="POB" />
+                <word id="7" cont="说" pos="v" parent="5" relate="COO" />
+                <word id="8" cont="下" pos="nd" parent="7" relate="CMP" />
+                <word id="9" cont="，" pos="wp" parent="5" relate="WP" />
+                <word id="10" cont="谢谢" pos="v" parent="5" relate="COO" />
+                <word id="11" cont="啦" pos="u" parent="10" relate="RAD" />
+                <word id="12" cont="。" pos="wp" parent="5" relate="WP" />
+            </sent>
+            <sent id="2" cont="就是 歌词 里 有 我们 这 一 家 ， 爱 吃 鱼 的 小 尾巴 。">
+                <word id="0" cont="就是" pos="v" parent="-1" relate="HED" />
+                <word id="1" cont="歌词" pos="n" parent="2" relate="ATT" />
+                <word id="2" cont="里" pos="nd" parent="3" relate="SBV" />
+                <word id="3" cont="有" pos="v" parent="0" relate="VOB" />
+                <word id="4" cont="我们" pos="r" parent="7" relate="ATT" />
+                <word id="5" cont="这" pos="r" parent="6" relate="ATT" />
+                <word id="6" cont="一" pos="m" parent="7" relate="ATT" />
+                <word id="7" cont="家" pos="q" parent="3" relate="VOB" />
+                <word id="8" cont="，" pos="wp" parent="3" relate="WP" />
+                <word id="9" cont="爱" pos="v" parent="3" relate="COO" />
+                <word id="10" cont="吃" pos="v" parent="14" relate="ATT" />
+                <word id="11" cont="鱼" pos="n" parent="10" relate="VOB" />
+                <word id="12" cont="的" pos="u" parent="10" relate="RAD" />
+                <word id="13" cont="小" pos="a" parent="14" relate="ATT" />
+                <word id="14" cont="尾巴" pos="n" parent="9" relate="VOB" />
+                <word id="15" cont="。" pos="wp" parent="0" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="天气 阴阴 的 不 知道 晚上 吃 什么 呢 我 猜 是 土豆丝">
+                <word id="0" cont="天气" pos="n" parent="1" relate="SBV" />
+                <word id="1" cont="阴阴" pos="a" parent="4" relate="ADV" />
+                <word id="2" cont="的" pos="u" parent="1" relate="RAD" />
+                <word id="3" cont="不" pos="d" parent="4" relate="ADV" />
+                <word id="4" cont="知道" pos="v" parent="-1" relate="HED" />
+                <word id="5" cont="晚上" pos="nt" parent="6" relate="ADV" />
+                <word id="6" cont="吃" pos="v" parent="11" relate="SBV" />
+                <word id="7" cont="什么" pos="r" parent="6" relate="VOB" />
+                <word id="8" cont="呢" pos="u" parent="6" relate="RAD" />
+                <word id="9" cont="我" pos="r" parent="10" relate="SBV" />
+                <word id="10" cont="猜" pos="v" parent="11" relate="SBV" />
+                <word id="11" cont="是" pos="v" parent="4" relate="VOB" />
+                <word id="12" cont="土豆丝" pos="n" parent="11" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="谁 说 要 吃 饺子 的 害 的 我 谗虫 都 出来 了">
+                <word id="0" cont="谁" pos="r" parent="1" relate="SBV" />
+                <word id="1" cont="说" pos="v" parent="3" relate="ADV" />
+                <word id="2" cont="要" pos="v" parent="3" relate="ADV" />
+                <word id="3" cont="吃" pos="v" parent="6" relate="ATT" />
+                <word id="4" cont="饺子" pos="n" parent="3" relate="VOB" />
+                <word id="5" cont="的" pos="u" parent="3" relate="RAD" />
+                <word id="6" cont="害" pos="n" parent="9" relate="ATT" />
+                <word id="7" cont="的" pos="u" parent="6" relate="RAD" />
+                <word id="8" cont="我" pos="r" parent="9" relate="ATT" />
+                <word id="9" cont="谗虫" pos="n" parent="11" relate="SBV" />
+                <word id="10" cont="都" pos="d" parent="11" relate="ADV" />
+                <word id="11" cont="出来" pos="v" parent="-1" relate="HED" />
+                <word id="12" cont="了" pos="u" parent="11" relate="RAD" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="明天 七 夕 了 我 的 另 一半 在 哪里 谁 给 我 个 馒头 现在 我 就 跟 谁">
+                <word id="0" cont="明天" pos="nt" parent="2" relate="ATT" />
+                <word id="1" cont="七" pos="m" parent="2" relate="ATT" />
+                <word id="2" cont="夕" pos="nt" parent="4" relate="ATT" />
+                <word id="3" cont="了" pos="u" parent="2" relate="RAD" />
+                <word id="4" cont="我" pos="r" parent="18" relate="SBV" />
+                <word id="5" cont="的" pos="u" parent="4" relate="RAD" />
+                <word id="6" cont="另" pos="r" parent="7" relate="ATT" />
+                <word id="7" cont="一半" pos="m" parent="18" relate="SBV" />
+                <word id="8" cont="在" pos="p" parent="18" relate="ADV" />
+                <word id="9" cont="哪里" pos="r" parent="14" relate="ATT" />
+                <word id="10" cont="谁" pos="r" parent="11" relate="SBV" />
+                <word id="11" cont="给" pos="v" parent="13" relate="ADV" />
+                <word id="12" cont="我" pos="r" parent="11" relate="IOB" />
+                <word id="13" cont="个" pos="q" parent="14" relate="ATT" />
+                <word id="14" cont="馒头" pos="n" parent="8" relate="POB" />
+                <word id="15" cont="现在" pos="nt" parent="18" relate="ADV" />
+                <word id="16" cont="我" pos="r" parent="18" relate="SBV" />
+                <word id="17" cont="就" pos="d" parent="18" relate="ADV" />
+                <word id="18" cont="跟" pos="v" parent="-1" relate="HED" />
+                <word id="19" cont="谁" pos="r" parent="18" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="哇 哈哈 ， 终于 能 上 微博 了 。">
+                <word id="0" cont="哇" pos="o" parent="1" relate="ATT" />
+                <word id="1" cont="哈哈" pos="o" parent="-1" relate="HED" />
+                <word id="2" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="3" cont="终于" pos="d" parent="4" relate="ADV" />
+                <word id="4" cont="能" pos="v" parent="5" relate="ADV" />
+                <word id="5" cont="上" pos="v" parent="6" relate="ADV" />
+                <word id="6" cont="微博" pos="v" parent="1" relate="COO" />
+                <word id="7" cont="了" pos="u" parent="6" relate="RAD" />
+                <word id="8" cont="。" pos="wp" parent="1" relate="WP" />
+            </sent>
+            <sent id="1" cont="先 庆祝 一下 ， 等 了 一 下午 咧 ！">
+                <word id="0" cont="先" pos="d" parent="1" relate="ADV" />
+                <word id="1" cont="庆祝" pos="v" parent="4" relate="SBV" />
+                <word id="2" cont="一下" pos="m" parent="1" relate="CMP" />
+                <word id="3" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="4" cont="等" pos="v" parent="-1" relate="HED" />
+                <word id="5" cont="了" pos="u" parent="4" relate="RAD" />
+                <word id="6" cont="一" pos="m" parent="7" relate="ATT" />
+                <word id="7" cont="下午" pos="nt" parent="4" relate="VOB" />
+                <word id="8" cont="咧" pos="u" parent="4" relate="RAD" />
+                <word id="9" cont="！" pos="wp" parent="4" relate="WP" />
+            </sent>
+            <sent id="2" cont="今天 找 人 代购 的 绿茶 香水 收到 了 ， 钱 还 没 给 人家 呢 ， HOHO ~ ~ ~ ~ ~ 明天 去 看 申花 主场 ， 好 期待 哦 ~ ~ ~ ~ ~ ~">
+                <word id="0" cont="今天" pos="nt" parent="1" relate="ADV" />
+                <word id="1" cont="找" pos="v" parent="6" relate="ATT" />
+                <word id="2" cont="人" pos="n" parent="1" relate="VOB" />
+                <word id="3" cont="代购" pos="v" parent="1" relate="VOB" />
+                <word id="4" cont="的" pos="u" parent="1" relate="RAD" />
+                <word id="5" cont="绿茶" pos="n" parent="6" relate="ATT" />
+                <word id="6" cont="香水" pos="n" parent="7" relate="SBV" />
+                <word id="7" cont="收到" pos="v" parent="-1" relate="HED" />
+                <word id="8" cont="了" pos="u" parent="7" relate="RAD" />
+                <word id="9" cont="，" pos="wp" parent="7" relate="WP" />
+                <word id="10" cont="钱" pos="n" parent="13" relate="SBV" />
+                <word id="11" cont="还" pos="d" parent="13" relate="ADV" />
+                <word id="12" cont="没" pos="d" parent="13" relate="ADV" />
+                <word id="13" cont="给" pos="v" parent="7" relate="COO" />
+                <word id="14" cont="人家" pos="r" parent="13" relate="POB" />
+                <word id="15" cont="呢" pos="u" parent="13" relate="RAD" />
+                <word id="16" cont="，" pos="wp" parent="13" relate="WP" />
+                <word id="17" cont="HOHO" pos="ws" parent="18" relate="ATT" />
+                <word id="18" cont="~" pos="n" parent="19" relate="SBV" />
+                <word id="19" cont="~" pos="v" parent="22" relate="SBV" />
+                <word id="20" cont="~" pos="n" parent="19" relate="VOB" />
+                <word id="21" cont="~" pos="v" parent="19" relate="COO" />
+                <word id="22" cont="~" pos="v" parent="13" relate="COO" />
+                <word id="23" cont="明天" pos="nt" parent="22" relate="POB" />
+                <word id="24" cont="去" pos="v" parent="22" relate="COO" />
+                <word id="25" cont="看" pos="v" parent="24" relate="COO" />
+                <word id="26" cont="申花" pos="nz" parent="27" relate="ATT" />
+                <word id="27" cont="主场" pos="n" parent="25" relate="VOB" />
+                <word id="28" cont="，" pos="wp" parent="24" relate="WP" />
+                <word id="29" cont="好" pos="a" parent="30" relate="ADV" />
+                <word id="30" cont="期待" pos="v" parent="24" relate="COO" />
+                <word id="31" cont="哦" pos="n" parent="30" relate="VOB" />
+                <word id="32" cont="~" pos="v" parent="30" relate="COO" />
+                <word id="33" cont="~" pos="n" parent="32" relate="VOB" />
+                <word id="34" cont="~" pos="v" parent="32" relate="COO" />
+                <word id="35" cont="~" pos="n" parent="34" relate="VOB" />
+                <word id="36" cont="~" pos="v" parent="32" relate="COO" />
+                <word id="37" cont="~" pos="n" parent="36" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="长白 上 就 在 那里 ， 不 远 也 不 近 ， 看得见 摸 得 着 ， 要 带 个 鸡蛋 去 天池 里 煮 煮 ...">
+                <word id="0" cont="长白" pos="ns" parent="1" relate="ATT" />
+                <word id="1" cont="上" pos="nd" parent="18" relate="ADV" />
+                <word id="2" cont="就" pos="d" parent="18" relate="ADV" />
+                <word id="3" cont="在" pos="p" parent="18" relate="ADV" />
+                <word id="4" cont="那里" pos="r" parent="3" relate="POB" />
+                <word id="5" cont="，" pos="wp" parent="3" relate="WP" />
+                <word id="6" cont="不" pos="d" parent="7" relate="ADV" />
+                <word id="7" cont="远" pos="a" parent="3" relate="COO" />
+                <word id="8" cont="也" pos="d" parent="10" relate="ADV" />
+                <word id="9" cont="不" pos="d" parent="10" relate="ADV" />
+                <word id="10" cont="近" pos="a" parent="7" relate="COO" />
+                <word id="11" cont="，" pos="wp" parent="7" relate="WP" />
+                <word id="12" cont="看得见" pos="v" parent="13" relate="ADV" />
+                <word id="13" cont="摸" pos="v" parent="7" relate="COO" />
+                <word id="14" cont="得" pos="u" parent="13" relate="RAD" />
+                <word id="15" cont="着" pos="v" parent="13" relate="CMP" />
+                <word id="16" cont="，" pos="wp" parent="3" relate="WP" />
+                <word id="17" cont="要" pos="v" parent="18" relate="ADV" />
+                <word id="18" cont="带" pos="v" parent="-1" relate="HED" />
+                <word id="19" cont="个" pos="q" parent="20" relate="ATT" />
+                <word id="20" cont="鸡蛋" pos="n" parent="18" relate="VOB" />
+                <word id="21" cont="去" pos="v" parent="18" relate="COO" />
+                <word id="22" cont="天池" pos="ns" parent="23" relate="ATT" />
+                <word id="23" cont="里" pos="nd" parent="24" relate="SBV" />
+                <word id="24" cont="煮" pos="v" parent="21" relate="VOB" />
+                <word id="25" cont="煮" pos="v" parent="18" relate="COO" />
+                <word id="26" cont="..." pos="n" parent="25" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="有 人 说 想 吃 包子">
+                <word id="0" cont="有" pos="v" parent="-1" relate="HED" />
+                <word id="1" cont="人" pos="n" parent="0" relate="DBL" />
+                <word id="2" cont="说" pos="v" parent="0" relate="VOB" />
+                <word id="3" cont="想" pos="v" parent="2" relate="VOB" />
+                <word id="4" cont="吃" pos="v" parent="3" relate="VOB" />
+                <word id="5" cont="包子" pos="n" parent="4" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="这里 是 猫窝 , 没有 老鼠 , 喜欢 吃 鱼">
+                <word id="0" cont="这里" pos="r" parent="1" relate="SBV" />
+                <word id="1" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="猫窝" pos="n" parent="1" relate="VOB" />
+                <word id="3" cont="," pos="wp" parent="4" relate="WP" />
+                <word id="4" cont="没有" pos="v" parent="1" relate="COO" />
+                <word id="5" cont="老鼠" pos="n" parent="4" relate="VOB" />
+                <word id="6" cont="," pos="wp" parent="1" relate="WP" />
+                <word id="7" cont="喜欢" pos="v" parent="1" relate="COO" />
+                <word id="8" cont="吃" pos="v" parent="7" relate="VOB" />
+                <word id="9" cont="鱼" pos="n" parent="8" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="不 知道 这里 能 做 什么 呢 ？">
+                <word id="0" cont="不" pos="d" parent="1" relate="ADV" />
+                <word id="1" cont="知道" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="这里" pos="r" parent="4" relate="SBV" />
+                <word id="3" cont="能" pos="v" parent="4" relate="ADV" />
+                <word id="4" cont="做" pos="v" parent="1" relate="VOB" />
+                <word id="5" cont="什么" pos="r" parent="4" relate="VOB" />
+                <word id="6" cont="呢" pos="u" parent="4" relate="RAD" />
+                <word id="7" cont="？" pos="wp" parent="1" relate="WP" />
+            </sent>
+            <sent id="1" cont="先 打 酱油 路过 吧 ~ ~">
+                <word id="0" cont="先" pos="d" parent="1" relate="ADV" />
+                <word id="1" cont="打" pos="v" parent="5" relate="ADV" />
+                <word id="2" cont="酱油" pos="n" parent="1" relate="VOB" />
+                <word id="3" cont="路过" pos="v" parent="1" relate="COO" />
+                <word id="4" cont="吧" pos="u" parent="1" relate="RAD" />
+                <word id="5" cont="~" pos="v" parent="-1" relate="HED" />
+                <word id="6" cont="~" pos="n" parent="5" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="刚才 煮 了 花生 ， 现在 继续 去 切 南瓜 ， 蒸 芋头 和 地瓜 去 。">
+                <word id="0" cont="刚才" pos="nt" parent="1" relate="ADV" />
+                <word id="1" cont="煮" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="了" pos="u" parent="1" relate="RAD" />
+                <word id="3" cont="花生" pos="n" parent="1" relate="VOB" />
+                <word id="4" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="5" cont="现在" pos="nt" parent="6" relate="ADV" />
+                <word id="6" cont="继续" pos="v" parent="1" relate="COO" />
+                <word id="7" cont="去" pos="v" parent="6" relate="COO" />
+                <word id="8" cont="切" pos="v" parent="7" relate="COO" />
+                <word id="9" cont="南瓜" pos="n" parent="8" relate="VOB" />
+                <word id="10" cont="，" pos="wp" parent="7" relate="WP" />
+                <word id="11" cont="蒸" pos="v" parent="7" relate="COO" />
+                <word id="12" cont="芋头" pos="n" parent="11" relate="VOB" />
+                <word id="13" cont="和" pos="c" parent="14" relate="LAD" />
+                <word id="14" cont="地瓜" pos="n" parent="12" relate="COO" />
+                <word id="15" cont="去" pos="v" parent="11" relate="COO" />
+                <word id="16" cont="。" pos="wp" parent="1" relate="WP" />
+            </sent>
+            <sent id="1" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="2" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="我 的 荔浦 芋头 终于 熟 了 ， 貌似 熟 了 。">
+                <word id="0" cont="我" pos="r" parent="3" relate="ATT" />
+                <word id="1" cont="的" pos="u" parent="0" relate="RAD" />
+                <word id="2" cont="荔浦" pos="ns" parent="3" relate="ATT" />
+                <word id="3" cont="芋头" pos="n" parent="5" relate="SBV" />
+                <word id="4" cont="终于" pos="d" parent="5" relate="ADV" />
+                <word id="5" cont="熟" pos="a" parent="-1" relate="HED" />
+                <word id="6" cont="了" pos="u" parent="5" relate="RAD" />
+                <word id="7" cont="，" pos="wp" parent="5" relate="WP" />
+                <word id="8" cont="貌似" pos="v" parent="5" relate="COO" />
+                <word id="9" cont="熟" pos="a" parent="8" relate="CMP" />
+                <word id="10" cont="了" pos="u" parent="8" relate="RAD" />
+                <word id="11" cont="。" pos="wp" parent="5" relate="WP" />
+            </sent>
+            <sent id="1" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="2" cont="这么 晚 了 ， 群里 还 这么 热闹 ， 好久 没 这么 热闹 拉 ， 很 久 没有 这么 一起 聊天 了 ， 顺便 抨击 了 某 醋 。">
+                <word id="0" cont="这么" pos="r" parent="1" relate="ADV" />
+                <word id="1" cont="晚" pos="a" parent="-1" relate="HED" />
+                <word id="2" cont="了" pos="u" parent="1" relate="RAD" />
+                <word id="3" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="4" cont="群里" pos="n" parent="7" relate="SBV" />
+                <word id="5" cont="还" pos="d" parent="7" relate="ADV" />
+                <word id="6" cont="这么" pos="r" parent="7" relate="ADV" />
+                <word id="7" cont="热闹" pos="a" parent="1" relate="COO" />
+                <word id="8" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="9" cont="好久" pos="m" parent="10" relate="ADV" />
+                <word id="10" cont="没" pos="v" parent="1" relate="COO" />
+                <word id="11" cont="这么" pos="r" parent="12" relate="ADV" />
+                <word id="12" cont="热闹" pos="a" parent="10" relate="VOB" />
+                <word id="13" cont="拉" pos="v" parent="12" relate="CMP" />
+                <word id="14" cont="，" pos="wp" parent="10" relate="WP" />
+                <word id="15" cont="很" pos="d" parent="16" relate="ADV" />
+                <word id="16" cont="久" pos="a" parent="17" relate="ADV" />
+                <word id="17" cont="没有" pos="v" parent="10" relate="COO" />
+                <word id="18" cont="这么" pos="r" parent="19" relate="ADV" />
+                <word id="19" cont="一起" pos="nl" parent="20" relate="ADV" />
+                <word id="20" cont="聊天" pos="v" parent="17" relate="VOB" />
+                <word id="21" cont="了" pos="u" parent="20" relate="RAD" />
+                <word id="22" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="23" cont="顺便" pos="d" parent="24" relate="ADV" />
+                <word id="24" cont="抨击" pos="v" parent="1" relate="COO" />
+                <word id="25" cont="了" pos="u" parent="24" relate="RAD" />
+                <word id="26" cont="某" pos="r" parent="27" relate="ATT" />
+                <word id="27" cont="醋" pos="n" parent="24" relate="VOB" />
+                <word id="28" cont="。" pos="wp" parent="1" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="城管 真牛 ， 搞 得 早餐 都 没 得 买 了 ， 我 的 炒粉 啊 ！">
+                <word id="0" cont="城管" pos="j" parent="1" relate="ATT" />
+                <word id="1" cont="真牛" pos="n" parent="3" relate="SBV" />
+                <word id="2" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="3" cont="搞" pos="v" parent="-1" relate="HED" />
+                <word id="4" cont="得" pos="u" parent="3" relate="RAD" />
+                <word id="5" cont="早餐" pos="n" parent="9" relate="SBV" />
+                <word id="6" cont="都" pos="d" parent="9" relate="ADV" />
+                <word id="7" cont="没" pos="d" parent="8" relate="ADV" />
+                <word id="8" cont="得" pos="v" parent="9" relate="ADV" />
+                <word id="9" cont="买" pos="v" parent="3" relate="CMP" />
+                <word id="10" cont="了" pos="u" parent="9" relate="RAD" />
+                <word id="11" cont="，" pos="wp" parent="9" relate="WP" />
+                <word id="12" cont="我" pos="r" parent="14" relate="ATT" />
+                <word id="13" cont="的" pos="u" parent="12" relate="RAD" />
+                <word id="14" cont="炒粉" pos="n" parent="9" relate="COO" />
+                <word id="15" cont="啊" pos="u" parent="9" relate="RAD" />
+                <word id="16" cont="！" pos="wp" parent="3" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="今天 吃 早饭 时 看见 俩 孕妇 ？">
+                <word id="0" cont="今天" pos="nt" parent="1" relate="ADV" />
+                <word id="1" cont="吃" pos="v" parent="3" relate="ATT" />
+                <word id="2" cont="早饭" pos="n" parent="1" relate="VOB" />
+                <word id="3" cont="时" pos="n" parent="4" relate="ADV" />
+                <word id="4" cont="看见" pos="v" parent="-1" relate="HED" />
+                <word id="5" cont="俩" pos="m" parent="6" relate="ATT" />
+                <word id="6" cont="孕妇" pos="n" parent="4" relate="VOB" />
+                <word id="7" cont="？" pos="wp" parent="4" relate="WP" />
+            </sent>
+            <sent id="1" cont="？">
+                <word id="0" cont="？" pos="wp" parent="-1" relate="HED" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="hello ， 蜗牛 的 粉丝 们 ！">
+                <word id="0" cont="hello" pos="i" parent="2" relate="ATT" />
+                <word id="1" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="2" cont="蜗牛" pos="n" parent="4" relate="ATT" />
+                <word id="3" cont="的" pos="u" parent="2" relate="RAD" />
+                <word id="4" cont="粉丝" pos="n" parent="-1" relate="HED" />
+                <word id="5" cont="们" pos="k" parent="4" relate="RAD" />
+                <word id="6" cont="！" pos="wp" parent="4" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="酒 他们 叫 我 老酒 ， 其实 ， 酒 ， 我 早 戒 了 ~">
+                <word id="0" cont="酒" pos="n" parent="1" relate="ATT" />
+                <word id="1" cont="他们" pos="r" parent="12" relate="SBV" />
+                <word id="2" cont="叫" pos="p" parent="12" relate="ADV" />
+                <word id="3" cont="我" pos="r" parent="4" relate="ATT" />
+                <word id="4" cont="老酒" pos="n" parent="2" relate="POB" />
+                <word id="5" cont="，" pos="wp" parent="2" relate="WP" />
+                <word id="6" cont="其实" pos="d" parent="12" relate="ADV" />
+                <word id="7" cont="，" pos="wp" parent="6" relate="WP" />
+                <word id="8" cont="酒" pos="n" parent="12" relate="FOB" />
+                <word id="9" cont="，" pos="wp" parent="8" relate="WP" />
+                <word id="10" cont="我" pos="r" parent="12" relate="SBV" />
+                <word id="11" cont="早" pos="a" parent="12" relate="ADV" />
+                <word id="12" cont="戒" pos="v" parent="-1" relate="HED" />
+                <word id="13" cont="了" pos="u" parent="12" relate="RAD" />
+                <word id="14" cont="~" pos="n" parent="12" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="饿 了 ， 吃 扬州 炒饭">
+                <word id="0" cont="饿" pos="v" parent="-1" relate="HED" />
+                <word id="1" cont="了" pos="u" parent="0" relate="RAD" />
+                <word id="2" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="3" cont="吃" pos="v" parent="0" relate="COO" />
+                <word id="4" cont="扬州" pos="ns" parent="5" relate="ATT" />
+                <word id="5" cont="炒饭" pos="n" parent="3" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="吃 完 饭 ， 拿 球 票 去 ， 申花战 西安 ， 偶 看 的 不 是 足球 ， 是 寂寞 ， 嗯 嗯 ~ ~ ~">
+                <word id="0" cont="吃" pos="v" parent="16" relate="SBV" />
+                <word id="1" cont="完" pos="v" parent="0" relate="CMP" />
+                <word id="2" cont="饭" pos="n" parent="0" relate="VOB" />
+                <word id="3" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="4" cont="拿" pos="v" parent="0" relate="COO" />
+                <word id="5" cont="球" pos="n" parent="6" relate="ATT" />
+                <word id="6" cont="票" pos="n" parent="4" relate="VOB" />
+                <word id="7" cont="去" pos="v" parent="4" relate="COO" />
+                <word id="8" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="9" cont="申花战" pos="v" parent="0" relate="COO" />
+                <word id="10" cont="西安" pos="ns" parent="9" relate="VOB" />
+                <word id="11" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="12" cont="偶" pos="d" parent="13" relate="ADV" />
+                <word id="13" cont="看" pos="v" parent="0" relate="COO" />
+                <word id="14" cont="的" pos="u" parent="0" relate="RAD" />
+                <word id="15" cont="不" pos="d" parent="16" relate="ADV" />
+                <word id="16" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="17" cont="足球" pos="n" parent="16" relate="VOB" />
+                <word id="18" cont="，" pos="wp" parent="16" relate="WP" />
+                <word id="19" cont="是" pos="v" parent="16" relate="COO" />
+                <word id="20" cont="寂寞" pos="a" parent="19" relate="VOB" />
+                <word id="21" cont="，" pos="wp" parent="16" relate="WP" />
+                <word id="22" cont="嗯" pos="e" parent="24" relate="ATT" />
+                <word id="23" cont="嗯" pos="e" parent="24" relate="ATT" />
+                <word id="24" cont="~" pos="n" parent="25" relate="SBV" />
+                <word id="25" cont="~" pos="v" parent="16" relate="COO" />
+                <word id="26" cont="~" pos="n" parent="25" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="我 在 吃 昨晚 凌晨 费劲 煮 的 南瓜 和 芋头 ， 味道 还 不错 。">
+                <word id="0" cont="我" pos="r" parent="2" relate="SBV" />
+                <word id="1" cont="在" pos="p" parent="2" relate="ADV" />
+                <word id="2" cont="吃" pos="v" parent="-1" relate="HED" />
+                <word id="3" cont="昨晚" pos="nt" parent="4" relate="ATT" />
+                <word id="4" cont="凌晨" pos="nt" parent="6" relate="ADV" />
+                <word id="5" cont="费劲" pos="a" parent="6" relate="ADV" />
+                <word id="6" cont="煮" pos="v" parent="8" relate="ATT" />
+                <word id="7" cont="的" pos="u" parent="6" relate="RAD" />
+                <word id="8" cont="南瓜" pos="n" parent="2" relate="VOB" />
+                <word id="9" cont="和" pos="c" parent="10" relate="LAD" />
+                <word id="10" cont="芋头" pos="n" parent="8" relate="COO" />
+                <word id="11" cont="，" pos="wp" parent="2" relate="WP" />
+                <word id="12" cont="味道" pos="n" parent="14" relate="SBV" />
+                <word id="13" cont="还" pos="d" parent="14" relate="ADV" />
+                <word id="14" cont="不错" pos="a" parent="2" relate="COO" />
+                <word id="15" cont="。" pos="wp" parent="2" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="那个 。">
+                <word id="0" cont="那个" pos="r" parent="-1" relate="HED" />
+                <word id="1" cont="。" pos="wp" parent="0" relate="WP" />
+            </sent>
+            <sent id="1" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="2" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="3" cont="荔浦 芋头 没有 和 珅说 的 那么 好吃 呀 。">
+                <word id="0" cont="荔浦" pos="ns" parent="1" relate="ATT" />
+                <word id="1" cont="芋头" pos="n" parent="2" relate="SBV" />
+                <word id="2" cont="没有" pos="v" parent="-1" relate="HED" />
+                <word id="3" cont="和" pos="c" parent="4" relate="LAD" />
+                <word id="4" cont="珅说" pos="v" parent="2" relate="COO" />
+                <word id="5" cont="的" pos="u" parent="4" relate="RAD" />
+                <word id="6" cont="那么" pos="r" parent="7" relate="ADV" />
+                <word id="7" cont="好吃" pos="a" parent="2" relate="CMP" />
+                <word id="8" cont="呀" pos="u" parent="7" relate="RAD" />
+                <word id="9" cont="。" pos="wp" parent="2" relate="WP" />
+            </sent>
+            <sent id="4" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="5" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="6" cont="还 不 如 南瓜 好吃 。">
+                <word id="0" cont="还" pos="d" parent="2" relate="ADV" />
+                <word id="1" cont="不" pos="d" parent="2" relate="ADV" />
+                <word id="2" cont="如" pos="v" parent="-1" relate="HED" />
+                <word id="3" cont="南瓜" pos="n" parent="4" relate="SBV" />
+                <word id="4" cont="好吃" pos="a" parent="2" relate="VOB" />
+                <word id="5" cont="。" pos="wp" parent="2" relate="WP" />
+            </sent>
+            <sent id="7" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="8" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="9" cont="被 骗 了 。">
+                <word id="0" cont="被" pos="p" parent="1" relate="ADV" />
+                <word id="1" cont="骗" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="了" pos="u" parent="1" relate="RAD" />
+                <word id="3" cont="。" pos="wp" parent="1" relate="WP" />
+            </sent>
+            <sent id="10" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="11" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="8.26 &amp; 8.27 曲 奇 饼干">
+                <word id="0" cont="8.26" pos="m" parent="1" relate="ATT" />
+                <word id="1" cont="&amp;" pos="q" parent="5" relate="ATT" />
+                <word id="2" cont="8.27" pos="m" parent="3" relate="ATT" />
+                <word id="3" cont="曲" pos="q" parent="5" relate="ATT" />
+                <word id="4" cont="奇" pos="a" parent="5" relate="ATT" />
+                <word id="5" cont="饼干" pos="n" parent="-1" relate="HED" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="8.28 冰皮 月饼 &amp; 油炸 月饼">
+                <word id="0" cont="8.28" pos="m" parent="1" relate="ATT" />
+                <word id="1" cont="冰皮" pos="n" parent="2" relate="ATT" />
+                <word id="2" cont="月饼" pos="n" parent="3" relate="SBV" />
+                <word id="3" cont="&amp;" pos="v" parent="-1" relate="HED" />
+                <word id="4" cont="油炸" pos="v" parent="3" relate="COO" />
+                <word id="5" cont="月饼" pos="n" parent="4" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="没 吃 午饭 ， 没有 饿感">
+                <word id="0" cont="没" pos="d" parent="1" relate="ADV" />
+                <word id="1" cont="吃" pos="v" parent="4" relate="SBV" />
+                <word id="2" cont="午饭" pos="n" parent="1" relate="VOB" />
+                <word id="3" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="4" cont="没有" pos="v" parent="-1" relate="HED" />
+                <word id="5" cont="饿感" pos="n" parent="4" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="看 了 一下 我 Google reader 的 阅读 趋势 ， 阅读 率 排 第一 的 是 煎蛋 55% ；">
+                <word id="0" cont="看" pos="v" parent="-1" relate="HED" />
+                <word id="1" cont="了" pos="u" parent="0" relate="RAD" />
+                <word id="2" cont="一下" pos="m" parent="5" relate="ADV" />
+                <word id="3" cont="我" pos="r" parent="5" relate="SBV" />
+                <word id="4" cont="Google" pos="ws" parent="5" relate="SBV" />
+                <word id="5" cont="reader" pos="v" parent="8" relate="ATT" />
+                <word id="6" cont="的" pos="u" parent="5" relate="RAD" />
+                <word id="7" cont="阅读" pos="v" parent="8" relate="ATT" />
+                <word id="8" cont="趋势" pos="n" parent="0" relate="VOB" />
+                <word id="9" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="10" cont="阅读" pos="v" parent="11" relate="ATT" />
+                <word id="11" cont="率" pos="v" parent="15" relate="SBV" />
+                <word id="12" cont="排" pos="v" parent="11" relate="COO" />
+                <word id="13" cont="第一" pos="m" parent="12" relate="VOB" />
+                <word id="14" cont="的" pos="u" parent="12" relate="RAD" />
+                <word id="15" cont="是" pos="v" parent="0" relate="COO" />
+                <word id="16" cont="煎蛋" pos="v" parent="15" relate="VOB" />
+                <word id="17" cont="55%" pos="m" parent="16" relate="VOB" />
+                <word id="18" cont="；" pos="wp" parent="0" relate="WP" />
+            </sent>
+            <sent id="1" cont="第二 ， 掘图志 53% ；">
+                <word id="0" cont="第二" pos="m" parent="2" relate="ADV" />
+                <word id="1" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="2" cont="掘图志" pos="v" parent="-1" relate="HED" />
+                <word id="3" cont="53%" pos="m" parent="2" relate="VOB" />
+                <word id="4" cont="；" pos="wp" parent="2" relate="WP" />
+            </sent>
+            <sent id="2" cont="第三 ， 玩 聚 SR | 最佳 48% 。">
+                <word id="0" cont="第三" pos="m" parent="2" relate="ADV" />
+                <word id="1" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="2" cont="玩" pos="v" parent="-1" relate="HED" />
+                <word id="3" cont="聚" pos="v" parent="2" relate="COO" />
+                <word id="4" cont="SR" pos="ws" parent="5" relate="ATT" />
+                <word id="5" cont="|" pos="n" parent="7" relate="ATT" />
+                <word id="6" cont="最佳" pos="z" parent="5" relate="COO" />
+                <word id="7" cont="48%" pos="m" parent="3" relate="VOB" />
+                <word id="8" cont="。" pos="wp" parent="2" relate="WP" />
+            </sent>
+            <sent id="3" cont="你们 的 呢 ？">
+                <word id="0" cont="你们" pos="r" parent="-1" relate="HED" />
+                <word id="1" cont="的" pos="u" parent="0" relate="RAD" />
+                <word id="2" cont="呢" pos="u" parent="0" relate="RAD" />
+                <word id="3" cont="？" pos="wp" parent="0" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="七夕 情人节 ， 一向 只 懂 思想 浪漫 的 我 ， 想 不 出 绝佳 的 创意 ， 决定 请 她 吃 碗 粉丝 。">
+                <word id="0" cont="七夕" pos="nt" parent="1" relate="ATT" />
+                <word id="1" cont="情人节" pos="n" parent="5" relate="SBV" />
+                <word id="2" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="3" cont="一向" pos="d" parent="5" relate="ADV" />
+                <word id="4" cont="只" pos="d" parent="5" relate="ADV" />
+                <word id="5" cont="懂" pos="v" parent="-1" relate="HED" />
+                <word id="6" cont="思想" pos="n" parent="7" relate="SBV" />
+                <word id="7" cont="浪漫" pos="a" parent="9" relate="ATT" />
+                <word id="8" cont="的" pos="u" parent="7" relate="RAD" />
+                <word id="9" cont="我" pos="r" parent="5" relate="VOB" />
+                <word id="10" cont="，" pos="wp" parent="5" relate="WP" />
+                <word id="11" cont="想" pos="v" parent="5" relate="COO" />
+                <word id="12" cont="不" pos="d" parent="13" relate="ADV" />
+                <word id="13" cont="出" pos="v" parent="11" relate="CMP" />
+                <word id="14" cont="绝佳" pos="a" parent="16" relate="ATT" />
+                <word id="15" cont="的" pos="u" parent="14" relate="RAD" />
+                <word id="16" cont="创意" pos="n" parent="11" relate="VOB" />
+                <word id="17" cont="，" pos="wp" parent="5" relate="WP" />
+                <word id="18" cont="决定" pos="v" parent="5" relate="COO" />
+                <word id="19" cont="请" pos="v" parent="18" relate="VOB" />
+                <word id="20" cont="她" pos="r" parent="19" relate="DBL" />
+                <word id="21" cont="吃" pos="v" parent="19" relate="VOB" />
+                <word id="22" cont="碗" pos="q" parent="23" relate="ATT" />
+                <word id="23" cont="粉丝" pos="n" parent="21" relate="VOB" />
+                <word id="24" cont="。" pos="wp" parent="5" relate="WP" />
+            </sent>
+            <sent id="1" cont="朋友 们 帮忙 添 一点 作料 吧 O(∩_∩)O 谢谢">
+                <word id="0" cont="朋友" pos="n" parent="2" relate="SBV" />
+                <word id="1" cont="们" pos="k" parent="0" relate="RAD" />
+                <word id="2" cont="帮忙" pos="v" parent="-1" relate="HED" />
+                <word id="3" cont="添" pos="v" parent="2" relate="COO" />
+                <word id="4" cont="一点" pos="m" parent="5" relate="ATT" />
+                <word id="5" cont="作料" pos="n" parent="3" relate="VOB" />
+                <word id="6" cont="吧" pos="u" parent="3" relate="RAD" />
+                <word id="7" cont="O(∩_∩)O" pos="ws" parent="8" relate="SBV" />
+                <word id="8" cont="谢谢" pos="v" parent="2" relate="COO" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="七 夕 情人节 ， 一向 只 懂 思想 浪漫 的 我 ， 想 不 出 绝佳 的 创意 ， 决定 请 她 吃 碗 粉丝 。">
+                <word id="0" cont="七" pos="m" parent="1" relate="ATT" />
+                <word id="1" cont="夕" pos="q" parent="2" relate="ATT" />
+                <word id="2" cont="情人节" pos="n" parent="6" relate="SBV" />
+                <word id="3" cont="，" pos="wp" parent="2" relate="WP" />
+                <word id="4" cont="一向" pos="d" parent="6" relate="ADV" />
+                <word id="5" cont="只" pos="d" parent="6" relate="ADV" />
+                <word id="6" cont="懂" pos="v" parent="-1" relate="HED" />
+                <word id="7" cont="思想" pos="n" parent="8" relate="SBV" />
+                <word id="8" cont="浪漫" pos="a" parent="10" relate="ATT" />
+                <word id="9" cont="的" pos="u" parent="8" relate="RAD" />
+                <word id="10" cont="我" pos="r" parent="6" relate="VOB" />
+                <word id="11" cont="，" pos="wp" parent="6" relate="WP" />
+                <word id="12" cont="想" pos="v" parent="6" relate="COO" />
+                <word id="13" cont="不" pos="d" parent="14" relate="ADV" />
+                <word id="14" cont="出" pos="v" parent="12" relate="CMP" />
+                <word id="15" cont="绝佳" pos="a" parent="17" relate="ATT" />
+                <word id="16" cont="的" pos="u" parent="15" relate="RAD" />
+                <word id="17" cont="创意" pos="n" parent="12" relate="VOB" />
+                <word id="18" cont="，" pos="wp" parent="6" relate="WP" />
+                <word id="19" cont="决定" pos="v" parent="6" relate="COO" />
+                <word id="20" cont="请" pos="v" parent="19" relate="VOB" />
+                <word id="21" cont="她" pos="r" parent="20" relate="DBL" />
+                <word id="22" cont="吃" pos="v" parent="20" relate="VOB" />
+                <word id="23" cont="碗" pos="q" parent="24" relate="ATT" />
+                <word id="24" cont="粉丝" pos="n" parent="22" relate="VOB" />
+                <word id="25" cont="。" pos="wp" parent="6" relate="WP" />
+            </sent>
+            <sent id="1" cont="朋友 们 帮忙 添 一点 作料 吧 O(∩_∩)O 谢谢">
+                <word id="0" cont="朋友" pos="n" parent="2" relate="SBV" />
+                <word id="1" cont="们" pos="k" parent="0" relate="RAD" />
+                <word id="2" cont="帮忙" pos="v" parent="-1" relate="HED" />
+                <word id="3" cont="添" pos="v" parent="2" relate="COO" />
+                <word id="4" cont="一点" pos="m" parent="5" relate="ATT" />
+                <word id="5" cont="作料" pos="n" parent="3" relate="VOB" />
+                <word id="6" cont="吧" pos="u" parent="3" relate="RAD" />
+                <word id="7" cont="O(∩_∩)O" pos="ws" parent="8" relate="SBV" />
+                <word id="8" cont="谢谢" pos="v" parent="2" relate="COO" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="吃 晚饭 去 了 。">
+                <word id="0" cont="吃" pos="v" parent="-1" relate="HED" />
+                <word id="1" cont="晚饭" pos="n" parent="0" relate="VOB" />
+                <word id="2" cont="去" pos="v" parent="0" relate="RAD" />
+                <word id="3" cont="了" pos="u" parent="0" relate="RAD" />
+                <word id="4" cont="。" pos="wp" parent="0" relate="WP" />
+            </sent>
+            <sent id="1" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="2" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="3" cont="想到 晚上 三 个 小时 的 组网 工程 课 ， 俺 就 崩溃 。">
+                <word id="0" cont="想到" pos="v" parent="-1" relate="HED" />
+                <word id="1" cont="晚上" pos="nt" parent="4" relate="ATT" />
+                <word id="2" cont="三" pos="m" parent="3" relate="ATT" />
+                <word id="3" cont="个" pos="q" parent="4" relate="ATT" />
+                <word id="4" cont="小时" pos="n" parent="8" relate="ATT" />
+                <word id="5" cont="的" pos="u" parent="4" relate="RAD" />
+                <word id="6" cont="组网" pos="v" parent="7" relate="ATT" />
+                <word id="7" cont="工程" pos="n" parent="8" relate="ATT" />
+                <word id="8" cont="课" pos="n" parent="0" relate="VOB" />
+                <word id="9" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="10" cont="俺" pos="r" parent="12" relate="SBV" />
+                <word id="11" cont="就" pos="d" parent="12" relate="ADV" />
+                <word id="12" cont="崩溃" pos="v" parent="0" relate="COO" />
+                <word id="13" cont="。" pos="wp" parent="0" relate="WP" />
+            </sent>
+            <sent id="4" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont=". 难 的 时候 ， 我 就 想想 小草 ， ， ，">
+                <word id="0" cont="." pos="wp" parent="3" relate="WP" />
+                <word id="1" cont="难" pos="a" parent="3" relate="ATT" />
+                <word id="2" cont="的" pos="u" parent="1" relate="RAD" />
+                <word id="3" cont="时候" pos="n" parent="7" relate="ADV" />
+                <word id="4" cont="，" pos="wp" parent="3" relate="WP" />
+                <word id="5" cont="我" pos="r" parent="7" relate="SBV" />
+                <word id="6" cont="就" pos="d" parent="7" relate="ADV" />
+                <word id="7" cont="想想" pos="v" parent="-1" relate="HED" />
+                <word id="8" cont="小草" pos="n" parent="7" relate="VOB" />
+                <word id="9" cont="，" pos="wp" parent="7" relate="WP" />
+                <word id="10" cont="，" pos="wp" parent="7" relate="WP" />
+                <word id="11" cont="，" pos="wp" parent="7" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="十 种 食品 让 你 成为 零 毛孔 美人">
+                <word id="0" cont="十" pos="m" parent="1" relate="ATT" />
+                <word id="1" cont="种" pos="q" parent="2" relate="ATT" />
+                <word id="2" cont="食品" pos="n" parent="5" relate="SBV" />
+                <word id="3" cont="让" pos="v" parent="5" relate="ADV" />
+                <word id="4" cont="你" pos="r" parent="3" relate="DBL" />
+                <word id="5" cont="成为" pos="v" parent="-1" relate="HED" />
+                <word id="6" cont="零" pos="m" parent="7" relate="ATT" />
+                <word id="7" cont="毛孔" pos="q" parent="8" relate="ATT" />
+                <word id="8" cont="美人" pos="n" parent="5" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="唉 ， 昨晚 又 蒸 又 煮 的 荔浦 芋头 还是 没 熟 。">
+                <word id="0" cont="唉" pos="e" parent="6" relate="ADV" />
+                <word id="1" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="2" cont="昨晚" pos="nt" parent="6" relate="ADV" />
+                <word id="3" cont="又" pos="d" parent="6" relate="ADV" />
+                <word id="4" cont="蒸" pos="v" parent="6" relate="ADV" />
+                <word id="5" cont="又" pos="d" parent="6" relate="ADV" />
+                <word id="6" cont="煮" pos="v" parent="9" relate="ATT" />
+                <word id="7" cont="的" pos="u" parent="6" relate="RAD" />
+                <word id="8" cont="荔浦" pos="nz" parent="9" relate="ATT" />
+                <word id="9" cont="芋头" pos="n" parent="10" relate="SBV" />
+                <word id="10" cont="还是" pos="d" parent="-1" relate="HED" />
+                <word id="11" cont="没" pos="d" parent="12" relate="ADV" />
+                <word id="12" cont="熟" pos="a" parent="10" relate="VOB" />
+                <word id="13" cont="。" pos="wp" parent="10" relate="WP" />
+            </sent>
+            <sent id="1" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="2" cont="继续 回家 煮 去 。">
+                <word id="0" cont="继续" pos="v" parent="-1" relate="HED" />
+                <word id="1" cont="回家" pos="v" parent="0" relate="COO" />
+                <word id="2" cont="煮" pos="v" parent="1" relate="COO" />
+                <word id="3" cont="去" pos="v" parent="2" relate="CMP" />
+                <word id="4" cont="。" pos="wp" parent="0" relate="WP" />
+            </sent>
+            <sent id="3" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="4" cont="不要 打击 我 的 自信心 ， 不然 我 以后 再 也 不 吃 你 了 。">
+                <word id="0" cont="不要" pos="d" parent="1" relate="ADV" />
+                <word id="1" cont="打击" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="我" pos="r" parent="4" relate="ATT" />
+                <word id="3" cont="的" pos="u" parent="2" relate="RAD" />
+                <word id="4" cont="自信心" pos="n" parent="1" relate="VOB" />
+                <word id="5" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="6" cont="不然" pos="c" parent="12" relate="ADV" />
+                <word id="7" cont="我" pos="r" parent="12" relate="SBV" />
+                <word id="8" cont="以后" pos="nd" parent="12" relate="ADV" />
+                <word id="9" cont="再" pos="d" parent="12" relate="ADV" />
+                <word id="10" cont="也" pos="d" parent="12" relate="ADV" />
+                <word id="11" cont="不" pos="d" parent="12" relate="ADV" />
+                <word id="12" cont="吃" pos="v" parent="1" relate="COO" />
+                <word id="13" cont="你" pos="r" parent="12" relate="VOB" />
+                <word id="14" cont="了" pos="u" parent="12" relate="RAD" />
+                <word id="15" cont="。" pos="wp" parent="1" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="， 昨晚 又 蒸 又 煮 的 荔浦 芋头 还是 没 熟 。">
+                <word id="0" cont="，" pos="wp" parent="5" relate="WP" />
+                <word id="1" cont="昨晚" pos="nt" parent="5" relate="ADV" />
+                <word id="2" cont="又" pos="d" parent="5" relate="ADV" />
+                <word id="3" cont="蒸" pos="v" parent="5" relate="ADV" />
+                <word id="4" cont="又" pos="d" parent="5" relate="ADV" />
+                <word id="5" cont="煮" pos="v" parent="8" relate="ATT" />
+                <word id="6" cont="的" pos="u" parent="5" relate="RAD" />
+                <word id="7" cont="荔浦" pos="nz" parent="8" relate="ATT" />
+                <word id="8" cont="芋头" pos="n" parent="9" relate="SBV" />
+                <word id="9" cont="还是" pos="d" parent="-1" relate="HED" />
+                <word id="10" cont="没" pos="d" parent="11" relate="ADV" />
+                <word id="11" cont="熟" pos="a" parent="9" relate="VOB" />
+                <word id="12" cont="。" pos="wp" parent="9" relate="WP" />
+            </sent>
+            <sent id="1" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="2" cont="继续 回家 煮 去 。">
+                <word id="0" cont="继续" pos="v" parent="-1" relate="HED" />
+                <word id="1" cont="回家" pos="v" parent="0" relate="COO" />
+                <word id="2" cont="煮" pos="v" parent="1" relate="COO" />
+                <word id="3" cont="去" pos="v" parent="2" relate="CMP" />
+                <word id="4" cont="。" pos="wp" parent="0" relate="WP" />
+            </sent>
+            <sent id="3" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="4" cont="不要 打击 我 的 自信心 ， 不然 我 以后 再 也 不 吃 你 了 。">
+                <word id="0" cont="不要" pos="d" parent="1" relate="ADV" />
+                <word id="1" cont="打击" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="我" pos="r" parent="4" relate="ATT" />
+                <word id="3" cont="的" pos="u" parent="2" relate="RAD" />
+                <word id="4" cont="自信心" pos="n" parent="1" relate="VOB" />
+                <word id="5" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="6" cont="不然" pos="c" parent="12" relate="ADV" />
+                <word id="7" cont="我" pos="r" parent="12" relate="SBV" />
+                <word id="8" cont="以后" pos="nd" parent="12" relate="ADV" />
+                <word id="9" cont="再" pos="d" parent="12" relate="ADV" />
+                <word id="10" cont="也" pos="d" parent="12" relate="ADV" />
+                <word id="11" cont="不" pos="d" parent="12" relate="ADV" />
+                <word id="12" cont="吃" pos="v" parent="1" relate="COO" />
+                <word id="13" cont="你" pos="r" parent="12" relate="VOB" />
+                <word id="14" cont="了" pos="u" parent="12" relate="RAD" />
+                <word id="15" cont="。" pos="wp" parent="1" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="自己 跟 自己 买 了 个 哈根达斯 ~ ~ ~ 好吃 ， 看得见 ~ ~ ~">
+                <word id="0" cont="自己" pos="r" parent="3" relate="SBV" />
+                <word id="1" cont="跟" pos="p" parent="3" relate="ADV" />
+                <word id="2" cont="自己" pos="r" parent="1" relate="POB" />
+                <word id="3" cont="买" pos="v" parent="-1" relate="HED" />
+                <word id="4" cont="了" pos="u" parent="3" relate="RAD" />
+                <word id="5" cont="个" pos="q" parent="7" relate="ATT" />
+                <word id="6" cont="哈根达斯" pos="nz" parent="7" relate="ATT" />
+                <word id="7" cont="~" pos="n" parent="3" relate="VOB" />
+                <word id="8" cont="~" pos="v" parent="3" relate="COO" />
+                <word id="9" cont="~" pos="v" parent="3" relate="COO" />
+                <word id="10" cont="好吃" pos="a" parent="9" relate="VOB" />
+                <word id="11" cont="，" pos="wp" parent="3" relate="WP" />
+                <word id="12" cont="看得见" pos="v" parent="3" relate="COO" />
+                <word id="13" cont="~" pos="n" parent="12" relate="VOB" />
+                <word id="14" cont="~" pos="v" parent="12" relate="COO" />
+                <word id="15" cont="~" pos="n" parent="14" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="采 葡萄 归来 。">
+                <word id="0" cont="采" pos="v" parent="-1" relate="HED" />
+                <word id="1" cont="葡萄" pos="n" parent="0" relate="VOB" />
+                <word id="2" cont="归来" pos="v" parent="0" relate="COO" />
+                <word id="3" cont="。" pos="wp" parent="0" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="七夕夜 ， 疯狂 夜 … 靠 ！">
+                <word id="0" cont="七夕夜" pos="nt" parent="5" relate="ADV" />
+                <word id="1" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="2" cont="疯狂" pos="a" parent="3" relate="ATT" />
+                <word id="3" cont="夜" pos="nt" parent="5" relate="ADV" />
+                <word id="4" cont="…" pos="d" parent="5" relate="ADV" />
+                <word id="5" cont="靠" pos="v" parent="-1" relate="HED" />
+                <word id="6" cont="！" pos="wp" parent="5" relate="WP" />
+            </sent>
+            <sent id="1" cont="病人 真 多 … 到 现在 吃 不 上 晚饭 …">
+                <word id="0" cont="病人" pos="n" parent="3" relate="SBV" />
+                <word id="1" cont="真" pos="d" parent="2" relate="ADV" />
+                <word id="2" cont="多" pos="a" parent="3" relate="ADV" />
+                <word id="3" cont="…" pos="v" parent="-1" relate="HED" />
+                <word id="4" cont="到" pos="p" parent="3" relate="CMP" />
+                <word id="5" cont="现在" pos="nt" parent="4" relate="POB" />
+                <word id="6" cont="吃" pos="v" parent="3" relate="COO" />
+                <word id="7" cont="不" pos="d" parent="8" relate="ADV" />
+                <word id="8" cont="上" pos="v" parent="6" relate="CMP" />
+                <word id="9" cont="晚饭" pos="n" parent="6" relate="VOB" />
+                <word id="10" cont="…" pos="wp" parent="3" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="一 家 烤肉 三 家 香 ， 我 就是 最 最 爱 香 的 那位">
+                <word id="0" cont="一" pos="m" parent="1" relate="ATT" />
+                <word id="1" cont="家" pos="q" parent="2" relate="ATT" />
+                <word id="2" cont="烤肉" pos="n" parent="14" relate="ATT" />
+                <word id="3" cont="三" pos="m" parent="4" relate="ATT" />
+                <word id="4" cont="家" pos="q" parent="5" relate="ATT" />
+                <word id="5" cont="香" pos="n" parent="2" relate="COO" />
+                <word id="6" cont="，" pos="wp" parent="2" relate="WP" />
+                <word id="7" cont="我" pos="r" parent="8" relate="SBV" />
+                <word id="8" cont="就是" pos="v" parent="2" relate="COO" />
+                <word id="9" cont="最" pos="d" parent="10" relate="ADV" />
+                <word id="10" cont="最" pos="d" parent="11" relate="ADV" />
+                <word id="11" cont="爱" pos="v" parent="8" relate="VOB" />
+                <word id="12" cont="香" pos="n" parent="11" relate="VOB" />
+                <word id="13" cont="的" pos="u" parent="11" relate="RAD" />
+                <word id="14" cont="那位" pos="r" parent="-1" relate="HED" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="七夕夜 ， 疯狂 夜 … 怎么 全 跑 医院 里 了 ， 55555555.俺滴 晚饭 …">
+                <word id="0" cont="七夕夜" pos="nt" parent="7" relate="ADV" />
+                <word id="1" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="2" cont="疯狂" pos="a" parent="3" relate="ATT" />
+                <word id="3" cont="夜" pos="nt" parent="0" relate="COO" />
+                <word id="4" cont="…" pos="wp" parent="0" relate="WP" />
+                <word id="5" cont="怎么" pos="r" parent="7" relate="ADV" />
+                <word id="6" cont="全" pos="d" parent="7" relate="ADV" />
+                <word id="7" cont="跑" pos="v" parent="-1" relate="HED" />
+                <word id="8" cont="医院" pos="n" parent="9" relate="ATT" />
+                <word id="9" cont="里" pos="nd" parent="13" relate="ATT" />
+                <word id="10" cont="了" pos="u" parent="9" relate="RAD" />
+                <word id="11" cont="，" pos="wp" parent="9" relate="WP" />
+                <word id="12" cont="55555555.俺滴" pos="m" parent="13" relate="ATT" />
+                <word id="13" cont="晚饭" pos="n" parent="7" relate="VOB" />
+                <word id="14" cont="…" pos="wp" parent="7" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="丫头 ， 你 这个 走路 姿势 可以 去 参加 果庆 月饼 了">
+                <word id="0" cont="丫头" pos="n" parent="8" relate="SBV" />
+                <word id="1" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="2" cont="你" pos="r" parent="8" relate="SBV" />
+                <word id="3" cont="这个" pos="r" parent="5" relate="ATT" />
+                <word id="4" cont="走路" pos="v" parent="5" relate="ATT" />
+                <word id="5" cont="姿势" pos="n" parent="8" relate="SBV" />
+                <word id="6" cont="可以" pos="v" parent="8" relate="ADV" />
+                <word id="7" cont="去" pos="v" parent="8" relate="ADV" />
+                <word id="8" cont="参加" pos="v" parent="-1" relate="HED" />
+                <word id="9" cont="果庆" pos="ns" parent="10" relate="ATT" />
+                <word id="10" cont="月饼" pos="n" parent="8" relate="VOB" />
+                <word id="11" cont="了" pos="u" parent="8" relate="RAD" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="很 好 ， 粉丝 在 不断 地 增加 ， 葱 白 我 的 都 来 加 我 吧 ， 哇 哈哈 。">
+                <word id="0" cont="很" pos="d" parent="1" relate="ADV" />
+                <word id="1" cont="好" pos="a" parent="7" relate="ADV" />
+                <word id="2" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="3" cont="粉丝" pos="n" parent="7" relate="SBV" />
+                <word id="4" cont="在" pos="d" parent="7" relate="ADV" />
+                <word id="5" cont="不断" pos="d" parent="7" relate="ADV" />
+                <word id="6" cont="地" pos="u" parent="5" relate="RAD" />
+                <word id="7" cont="增加" pos="v" parent="-1" relate="HED" />
+                <word id="8" cont="，" pos="wp" parent="7" relate="WP" />
+                <word id="9" cont="葱" pos="n" parent="14" relate="SBV" />
+                <word id="10" cont="白" pos="d" parent="14" relate="ADV" />
+                <word id="11" cont="我" pos="r" parent="14" relate="SBV" />
+                <word id="12" cont="的" pos="u" parent="11" relate="RAD" />
+                <word id="13" cont="都" pos="d" parent="14" relate="ADV" />
+                <word id="14" cont="来" pos="v" parent="7" relate="VOB" />
+                <word id="15" cont="加" pos="v" parent="14" relate="COO" />
+                <word id="16" cont="我" pos="r" parent="15" relate="VOB" />
+                <word id="17" cont="吧" pos="u" parent="15" relate="RAD" />
+                <word id="18" cont="，" pos="wp" parent="15" relate="WP" />
+                <word id="19" cont="哇" pos="o" parent="20" relate="ATT" />
+                <word id="20" cont="哈哈" pos="o" parent="14" relate="VOB" />
+                <word id="21" cont="。" pos="wp" parent="7" relate="WP" />
+            </sent>
+            <sent id="1" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="2" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="监狱 生活 太 苦 硬 把 番茄 花园 洪 磊 折磨 成 炳叔">
+                <word id="0" cont="监狱" pos="n" parent="1" relate="SBV" />
+                <word id="1" cont="生活" pos="v" parent="3" relate="SBV" />
+                <word id="2" cont="太" pos="d" parent="3" relate="ADV" />
+                <word id="3" cont="苦" pos="a" parent="10" relate="SBV" />
+                <word id="4" cont="硬" pos="a" parent="3" relate="COO" />
+                <word id="5" cont="把" pos="p" parent="10" relate="ADV" />
+                <word id="6" cont="番茄" pos="n" parent="7" relate="ATT" />
+                <word id="7" cont="花园" pos="n" parent="8" relate="ATT" />
+                <word id="8" cont="洪" pos="nh" parent="9" relate="SBV" />
+                <word id="9" cont="磊" pos="v" parent="5" relate="POB" />
+                <word id="10" cont="折磨" pos="v" parent="-1" relate="HED" />
+                <word id="11" cont="成" pos="v" parent="10" relate="CMP" />
+                <word id="12" cont="炳叔" pos="n" parent="11" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="晚上 去 吃寿司 ， 这 玩意 开始 吃 还 可以 ， 吃 多 了 一点 感觉 都 没有 。">
+                <word id="0" cont="晚上" pos="nt" parent="1" relate="ADV" />
+                <word id="1" cont="去" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="吃寿司" pos="v" parent="1" relate="COO" />
+                <word id="3" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="4" cont="这" pos="r" parent="5" relate="ATT" />
+                <word id="5" cont="玩意" pos="n" parent="6" relate="SBV" />
+                <word id="6" cont="开始" pos="v" parent="1" relate="COO" />
+                <word id="7" cont="吃" pos="v" parent="6" relate="VOB" />
+                <word id="8" cont="还" pos="d" parent="9" relate="ADV" />
+                <word id="9" cont="可以" pos="v" parent="7" relate="CMP" />
+                <word id="10" cont="，" pos="wp" parent="6" relate="WP" />
+                <word id="11" cont="吃" pos="v" parent="17" relate="SBV" />
+                <word id="12" cont="多" pos="a" parent="11" relate="CMP" />
+                <word id="13" cont="了" pos="u" parent="11" relate="RAD" />
+                <word id="14" cont="一点" pos="m" parent="15" relate="ATT" />
+                <word id="15" cont="感觉" pos="n" parent="11" relate="VOB" />
+                <word id="16" cont="都" pos="d" parent="17" relate="ADV" />
+                <word id="17" cont="没有" pos="v" parent="6" relate="COO" />
+                <word id="18" cont="。" pos="wp" parent="6" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="终于 又 等 到 一 部 之前 关注 的 电影 下载 ， 《 麦兜 响 当当 》 ， 下 了 看看 ， 换 个 口味 ！">
+                <word id="0" cont="终于" pos="d" parent="2" relate="ADV" />
+                <word id="1" cont="又" pos="d" parent="2" relate="ADV" />
+                <word id="2" cont="等" pos="v" parent="-1" relate="HED" />
+                <word id="3" cont="到" pos="v" parent="2" relate="CMP" />
+                <word id="4" cont="一" pos="m" parent="5" relate="ATT" />
+                <word id="5" cont="部" pos="q" parent="6" relate="ATT" />
+                <word id="6" cont="之前" pos="nd" parent="7" relate="ADV" />
+                <word id="7" cont="关注" pos="v" parent="9" relate="ATT" />
+                <word id="8" cont="的" pos="u" parent="7" relate="RAD" />
+                <word id="9" cont="电影" pos="n" parent="3" relate="POB" />
+                <word id="10" cont="下载" pos="v" parent="2" relate="VOB" />
+                <word id="11" cont="，" pos="wp" parent="2" relate="WP" />
+                <word id="12" cont="《" pos="wp" parent="14" relate="WP" />
+                <word id="13" cont="麦兜" pos="n" parent="14" relate="SBV" />
+                <word id="14" cont="响" pos="v" parent="2" relate="COO" />
+                <word id="15" cont="当当" pos="o" parent="14" relate="CMP" />
+                <word id="16" cont="》" pos="wp" parent="15" relate="WP" />
+                <word id="17" cont="，" pos="wp" parent="2" relate="WP" />
+                <word id="18" cont="下" pos="v" parent="2" relate="COO" />
+                <word id="19" cont="了" pos="u" parent="18" relate="RAD" />
+                <word id="20" cont="看看" pos="v" parent="18" relate="COO" />
+                <word id="21" cont="，" pos="wp" parent="2" relate="WP" />
+                <word id="22" cont="换" pos="v" parent="2" relate="COO" />
+                <word id="23" cont="个" pos="q" parent="24" relate="ATT" />
+                <word id="24" cont="口味" pos="n" parent="22" relate="VOB" />
+                <word id="25" cont="！" pos="wp" parent="2" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="老公 偷偷 的 溜 出去 和 狼友 们 吃饭 ， 喝 了 不少 酒 ， 一 回来 就 跑 到 厕所 吐 ， 等 吐 完 扶 他 躺 到 床 上 ， 用 热 毛巾 给 他 擦 了 下 脸 ， 打算 帮 他 脱 掉 衣服 换上 睡衣 ， 哪 知 才 解开 皮带扣 ， 老公 忽然 下 意识 的 抓住 自己 的 裤子 ， 冒 出 一 句 ： “ 要不得 ！">
+                <word id="0" cont="老公" pos="nh" parent="1" relate="SBV" />
+                <word id="1" cont="偷偷" pos="v" parent="3" relate="ATT" />
+                <word id="2" cont="的" pos="u" parent="1" relate="RAD" />
+                <word id="3" cont="溜" pos="v" parent="-1" relate="HED" />
+                <word id="4" cont="出去" pos="v" parent="3" relate="CMP" />
+                <word id="5" cont="和" pos="c" parent="8" relate="LAD" />
+                <word id="6" cont="狼友" pos="n" parent="8" relate="SBV" />
+                <word id="7" cont="们" pos="k" parent="6" relate="RAD" />
+                <word id="8" cont="吃饭" pos="v" parent="4" relate="COO" />
+                <word id="9" cont="，" pos="wp" parent="4" relate="WP" />
+                <word id="10" cont="喝" pos="v" parent="4" relate="COO" />
+                <word id="11" cont="了" pos="u" parent="10" relate="RAD" />
+                <word id="12" cont="不少" pos="m" parent="13" relate="ATT" />
+                <word id="13" cont="酒" pos="n" parent="10" relate="VOB" />
+                <word id="14" cont="，" pos="wp" parent="4" relate="WP" />
+                <word id="15" cont="一" pos="d" parent="16" relate="ADV" />
+                <word id="16" cont="回来" pos="v" parent="4" relate="COO" />
+                <word id="17" cont="就" pos="d" parent="18" relate="ADV" />
+                <word id="18" cont="跑" pos="v" parent="16" relate="COO" />
+                <word id="19" cont="到" pos="v" parent="18" relate="CMP" />
+                <word id="20" cont="厕所" pos="n" parent="19" relate="POB" />
+                <word id="21" cont="吐" pos="v" parent="19" relate="COO" />
+                <word id="22" cont="，" pos="wp" parent="18" relate="WP" />
+                <word id="23" cont="等" pos="v" parent="18" relate="COO" />
+                <word id="24" cont="吐" pos="v" parent="23" relate="VOB" />
+                <word id="25" cont="完" pos="v" parent="23" relate="COO" />
+                <word id="26" cont="扶" pos="v" parent="23" relate="COO" />
+                <word id="27" cont="他" pos="r" parent="23" relate="VOB" />
+                <word id="28" cont="躺" pos="v" parent="23" relate="VOB" />
+                <word id="29" cont="到" pos="v" parent="28" relate="CMP" />
+                <word id="30" cont="床" pos="n" parent="31" relate="ATT" />
+                <word id="31" cont="上" pos="nd" parent="29" relate="POB" />
+                <word id="32" cont="，" pos="wp" parent="18" relate="WP" />
+                <word id="33" cont="用" pos="p" parent="38" relate="ADV" />
+                <word id="34" cont="热" pos="a" parent="35" relate="ATT" />
+                <word id="35" cont="毛巾" pos="n" parent="33" relate="POB" />
+                <word id="36" cont="给" pos="p" parent="38" relate="ADV" />
+                <word id="37" cont="他" pos="r" parent="36" relate="POB" />
+                <word id="38" cont="擦" pos="v" parent="18" relate="COO" />
+                <word id="39" cont="了" pos="u" parent="38" relate="RAD" />
+                <word id="40" cont="下" pos="v" parent="41" relate="ATT" />
+                <word id="41" cont="脸" pos="n" parent="38" relate="VOB" />
+                <word id="42" cont="，" pos="wp" parent="18" relate="WP" />
+                <word id="43" cont="打算" pos="v" parent="18" relate="COO" />
+                <word id="44" cont="帮" pos="v" parent="43" relate="VOB" />
+                <word id="45" cont="他" pos="r" parent="44" relate="DBL" />
+                <word id="46" cont="脱" pos="v" parent="44" relate="VOB" />
+                <word id="47" cont="掉" pos="v" parent="46" relate="CMP" />
+                <word id="48" cont="衣服" pos="n" parent="46" relate="VOB" />
+                <word id="49" cont="换上" pos="v" parent="46" relate="COO" />
+                <word id="50" cont="睡衣" pos="n" parent="49" relate="VOB" />
+                <word id="51" cont="，" pos="wp" parent="18" relate="WP" />
+                <word id="52" cont="哪" pos="r" parent="53" relate="ADV" />
+                <word id="53" cont="知" pos="v" parent="18" relate="COO" />
+                <word id="54" cont="才" pos="d" parent="55" relate="ADV" />
+                <word id="55" cont="解开" pos="v" parent="53" relate="VOB" />
+                <word id="56" cont="皮带扣" pos="n" parent="55" relate="VOB" />
+                <word id="57" cont="，" pos="wp" parent="55" relate="WP" />
+                <word id="58" cont="老公" pos="n" parent="60" relate="SBV" />
+                <word id="59" cont="忽然" pos="d" parent="60" relate="ADV" />
+                <word id="60" cont="下" pos="v" parent="55" relate="COO" />
+                <word id="61" cont="意识" pos="n" parent="60" relate="VOB" />
+                <word id="62" cont="的" pos="u" parent="55" relate="RAD" />
+                <word id="63" cont="抓住" pos="v" parent="53" relate="COO" />
+                <word id="64" cont="自己" pos="r" parent="66" relate="ATT" />
+                <word id="65" cont="的" pos="u" parent="64" relate="RAD" />
+                <word id="66" cont="裤子" pos="n" parent="63" relate="VOB" />
+                <word id="67" cont="，" pos="wp" parent="53" relate="WP" />
+                <word id="68" cont="冒" pos="v" parent="53" relate="COO" />
+                <word id="69" cont="出" pos="v" parent="68" relate="CMP" />
+                <word id="70" cont="一" pos="m" parent="71" relate="ATT" />
+                <word id="71" cont="句" pos="q" parent="68" relate="VOB" />
+                <word id="72" cont="：" pos="wp" parent="68" relate="WP" />
+                <word id="73" cont="“" pos="wp" parent="74" relate="WP" />
+                <word id="74" cont="要不得" pos="i" parent="68" relate="COO" />
+                <word id="75" cont="！" pos="wp" parent="18" relate="WP" />
+            </sent>
+            <sent id="1" cont="我 有 婆娘 了 ！">
+                <word id="0" cont="我" pos="r" parent="1" relate="SBV" />
+                <word id="1" cont="有" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="婆娘" pos="n" parent="1" relate="VOB" />
+                <word id="3" cont="了" pos="u" parent="1" relate="RAD" />
+                <word id="4" cont="！" pos="wp" parent="1" relate="WP" />
+            </sent>
+            <sent id="2" cont="”">
+                <word id="0" cont="”" pos="wp" parent="-1" relate="HED" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="据说 喝 王老吉 收集 灌灌 能 送 Q7.... 大家 收 破烂 去 ...">
+                <word id="0" cont="据说" pos="v" parent="1" relate="ADV" />
+                <word id="1" cont="喝" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="王老吉" pos="nh" parent="3" relate="SBV" />
+                <word id="3" cont="收集" pos="v" parent="1" relate="VOB" />
+                <word id="4" cont="灌灌" pos="v" parent="3" relate="COO" />
+                <word id="5" cont="能" pos="v" parent="6" relate="ADV" />
+                <word id="6" cont="送" pos="v" parent="3" relate="COO" />
+                <word id="7" cont="Q7...." pos="v" parent="6" relate="CMP" />
+                <word id="8" cont="大家" pos="r" parent="9" relate="SBV" />
+                <word id="9" cont="收" pos="v" parent="6" relate="COO" />
+                <word id="10" cont="破烂" pos="a" parent="9" relate="VOB" />
+                <word id="11" cont="去" pos="v" parent="9" relate="COO" />
+                <word id="12" cont="..." pos="v" parent="11" relate="COO" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="黑莓 App World 加油站 OTA 版 ， GoogleMaps cmwap 版 、 GMail cmwap 版 ， 德版 Opera Mini ， Uber Twitter cmwap 版 ， Vi-Chat 特别 版 ， Call Blocker Pro 正式 版 ， 正版 Wifi File Transfer ， Every Hour 特别 版 ， Camera To Go 特别 版 ， iBerry 收费 主题 ， 更多 原创 、 更多 精品 ， 尽 在 黑莓 OTA 之 家 ：">
+                <word id="0" cont="黑莓" pos="n" parent="5" relate="ATT" />
+                <word id="1" cont="App" pos="ws" parent="5" relate="ATT" />
+                <word id="2" cont="World" pos="ws" parent="3" relate="ATT" />
+                <word id="3" cont="加油站" pos="n" parent="5" relate="ATT" />
+                <word id="4" cont="OTA" pos="ws" parent="5" relate="ATT" />
+                <word id="5" cont="版" pos="n" parent="7" relate="ATT" />
+                <word id="6" cont="，" pos="wp" parent="5" relate="WP" />
+                <word id="7" cont="GoogleMaps" pos="ws" parent="8" relate="SBV" />
+                <word id="8" cont="cmwap" pos="v" parent="-1" relate="HED" />
+                <word id="9" cont="版" pos="n" parent="8" relate="VOB" />
+                <word id="10" cont="、" pos="wp" parent="12" relate="WP" />
+                <word id="11" cont="GMail" pos="ws" parent="12" relate="SBV" />
+                <word id="12" cont="cmwap" pos="v" parent="8" relate="COO" />
+                <word id="13" cont="版" pos="n" parent="12" relate="VOB" />
+                <word id="14" cont="，" pos="wp" parent="8" relate="WP" />
+                <word id="15" cont="德版" pos="n" parent="16" relate="SBV" />
+                <word id="16" cont="Opera" pos="v" parent="8" relate="COO" />
+                <word id="17" cont="Mini" pos="ws" parent="16" relate="VOB" />
+                <word id="18" cont="，" pos="wp" parent="8" relate="WP" />
+                <word id="19" cont="Uber" pos="ws" parent="21" relate="SBV" />
+                <word id="20" cont="Twitter" pos="ws" parent="21" relate="SBV" />
+                <word id="21" cont="cmwap" pos="v" parent="8" relate="COO" />
+                <word id="22" cont="版" pos="n" parent="21" relate="VOB" />
+                <word id="23" cont="，" pos="wp" parent="8" relate="WP" />
+                <word id="24" cont="Vi-Chat" pos="ws" parent="26" relate="ATT" />
+                <word id="25" cont="特别" pos="a" parent="26" relate="ATT" />
+                <word id="26" cont="版" pos="n" parent="8" relate="COO" />
+                <word id="27" cont="，" pos="wp" parent="8" relate="WP" />
+                <word id="28" cont="Call" pos="ws" parent="32" relate="ATT" />
+                <word id="29" cont="Blocker" pos="ws" parent="32" relate="ATT" />
+                <word id="30" cont="Pro" pos="ws" parent="32" relate="ATT" />
+                <word id="31" cont="正式" pos="a" parent="32" relate="ATT" />
+                <word id="32" cont="版" pos="n" parent="8" relate="COO" />
+                <word id="33" cont="，" pos="wp" parent="8" relate="WP" />
+                <word id="34" cont="正版" pos="n" parent="35" relate="ATT" />
+                <word id="35" cont="Wifi" pos="nz" parent="36" relate="ATT" />
+                <word id="36" cont="File" pos="ws" parent="37" relate="ATT" />
+                <word id="37" cont="Transfer" pos="ws" parent="8" relate="COO" />
+                <word id="38" cont="，" pos="wp" parent="8" relate="WP" />
+                <word id="39" cont="Every" pos="ws" parent="42" relate="ATT" />
+                <word id="40" cont="Hour" pos="ws" parent="42" relate="ATT" />
+                <word id="41" cont="特别" pos="a" parent="42" relate="ATT" />
+                <word id="42" cont="版" pos="n" parent="8" relate="COO" />
+                <word id="43" cont="，" pos="wp" parent="8" relate="WP" />
+                <word id="44" cont="Camera" pos="ws" parent="45" relate="ATT" />
+                <word id="45" cont="To" pos="n" parent="48" relate="ATT" />
+                <word id="46" cont="Go" pos="ws" parent="48" relate="ATT" />
+                <word id="47" cont="特别" pos="a" parent="48" relate="ATT" />
+                <word id="48" cont="版" pos="n" parent="8" relate="COO" />
+                <word id="49" cont="，" pos="wp" parent="8" relate="WP" />
+                <word id="50" cont="iBerry" pos="v" parent="8" relate="COO" />
+                <word id="51" cont="收费" pos="v" parent="52" relate="ATT" />
+                <word id="52" cont="主题" pos="n" parent="50" relate="VOB" />
+                <word id="53" cont="，" pos="wp" parent="8" relate="WP" />
+                <word id="54" cont="更多" pos="d" parent="55" relate="ADV" />
+                <word id="55" cont="原创" pos="v" parent="8" relate="COO" />
+                <word id="56" cont="、" pos="wp" parent="57" relate="WP" />
+                <word id="57" cont="更多" pos="v" parent="55" relate="COO" />
+                <word id="58" cont="精品" pos="n" parent="57" relate="VOB" />
+                <word id="59" cont="，" pos="wp" parent="8" relate="WP" />
+                <word id="60" cont="尽" pos="d" parent="61" relate="ADV" />
+                <word id="61" cont="在" pos="p" parent="8" relate="COO" />
+                <word id="62" cont="黑莓" pos="n" parent="63" relate="ATT" />
+                <word id="63" cont="OTA" pos="ws" parent="65" relate="ATT" />
+                <word id="64" cont="之" pos="u" parent="63" relate="RAD" />
+                <word id="65" cont="家" pos="n" parent="61" relate="POB" />
+                <word id="66" cont="：" pos="wp" parent="8" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="包 折腾 换 头像 ， 中间 弹 出 没有 文字 内容 的 alert 一 次 。">
+                <word id="0" cont="包" pos="v" parent="-1" relate="HED" />
+                <word id="1" cont="折腾" pos="v" parent="0" relate="VOB" />
+                <word id="2" cont="换" pos="v" parent="0" relate="COO" />
+                <word id="3" cont="头像" pos="n" parent="2" relate="VOB" />
+                <word id="4" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="5" cont="中间" pos="nd" parent="6" relate="ADV" />
+                <word id="6" cont="弹" pos="v" parent="0" relate="COO" />
+                <word id="7" cont="出" pos="v" parent="6" relate="CMP" />
+                <word id="8" cont="没有" pos="v" parent="14" relate="ATT" />
+                <word id="9" cont="文字" pos="n" parent="10" relate="ATT" />
+                <word id="10" cont="内容" pos="n" parent="8" relate="VOB" />
+                <word id="11" cont="的" pos="u" parent="8" relate="RAD" />
+                <word id="12" cont="alert" pos="a" parent="14" relate="ATT" />
+                <word id="13" cont="一" pos="m" parent="14" relate="ATT" />
+                <word id="14" cont="次" pos="q" parent="6" relate="VOB" />
+                <word id="15" cont="。" pos="wp" parent="0" relate="WP" />
+            </sent>
+            <sent id="1" cont="fx 崩溃 一 次 。">
+                <word id="0" cont="fx" pos="v" parent="-1" relate="HED" />
+                <word id="1" cont="崩溃" pos="v" parent="0" relate="VOB" />
+                <word id="2" cont="一" pos="m" parent="3" relate="ATT" />
+                <word id="3" cont="次" pos="q" parent="1" relate="CMP" />
+                <word id="4" cont="。" pos="wp" parent="0" relate="WP" />
+            </sent>
+            <sent id="2" cont="开 了 IE 把 头像 搞好 了 。">
+                <word id="0" cont="开" pos="v" parent="-1" relate="HED" />
+                <word id="1" cont="了" pos="u" parent="0" relate="RAD" />
+                <word id="2" cont="IE" pos="ws" parent="0" relate="VOB" />
+                <word id="3" cont="把" pos="p" parent="5" relate="ADV" />
+                <word id="4" cont="头像" pos="n" parent="3" relate="POB" />
+                <word id="5" cont="搞好" pos="v" parent="0" relate="COO" />
+                <word id="6" cont="了" pos="u" parent="5" relate="RAD" />
+                <word id="7" cont="。" pos="wp" parent="0" relate="WP" />
+            </sent>
+            <sent id="3" cont="看看 public timeline 里头 像 是 叉烧包 的 同学 们 ， 我 感到 自己 的 rp那 是 刚刚 的 。">
+                <word id="0" cont="看看" pos="v" parent="5" relate="SBV" />
+                <word id="1" cont="public" pos="ws" parent="2" relate="ATT" />
+                <word id="2" cont="timeline" pos="n" parent="3" relate="ATT" />
+                <word id="3" cont="里头" pos="nd" parent="4" relate="ADV" />
+                <word id="4" cont="像" pos="v" parent="0" relate="VOB" />
+                <word id="5" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="6" cont="叉烧包" pos="n" parent="8" relate="ATT" />
+                <word id="7" cont="的" pos="u" parent="6" relate="RAD" />
+                <word id="8" cont="同学" pos="n" parent="5" relate="VOB" />
+                <word id="9" cont="们" pos="k" parent="8" relate="RAD" />
+                <word id="10" cont="，" pos="wp" parent="5" relate="WP" />
+                <word id="11" cont="我" pos="r" parent="12" relate="SBV" />
+                <word id="12" cont="感到" pos="v" parent="16" relate="SBV" />
+                <word id="13" cont="自己" pos="r" parent="15" relate="ATT" />
+                <word id="14" cont="的" pos="u" parent="13" relate="RAD" />
+                <word id="15" cont="rp那" pos="n" parent="12" relate="VOB" />
+                <word id="16" cont="是" pos="v" parent="5" relate="COO" />
+                <word id="17" cont="刚刚" pos="d" parent="16" relate="VOB" />
+                <word id="18" cont="的" pos="u" parent="17" relate="RAD" />
+                <word id="19" cont="。" pos="wp" parent="5" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="想 买 个 黑莓 手机 ， 不 知道 哪 款 好 点 ？">
+                <word id="0" cont="想" pos="v" parent="-1" relate="HED" />
+                <word id="1" cont="买" pos="v" parent="0" relate="VOB" />
+                <word id="2" cont="个" pos="q" parent="4" relate="ATT" />
+                <word id="3" cont="黑莓" pos="n" parent="4" relate="ATT" />
+                <word id="4" cont="手机" pos="n" parent="1" relate="VOB" />
+                <word id="5" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="6" cont="不" pos="d" parent="7" relate="ADV" />
+                <word id="7" cont="知道" pos="v" parent="1" relate="COO" />
+                <word id="8" cont="哪" pos="r" parent="9" relate="ATT" />
+                <word id="9" cont="款" pos="q" parent="11" relate="ATT" />
+                <word id="10" cont="好" pos="a" parent="11" relate="ATT" />
+                <word id="11" cont="点" pos="q" parent="7" relate="VOB" />
+                <word id="12" cont="？" pos="wp" parent="0" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="去 吃 洪 七 公 叫 化鸡 了 ！">
+                <word id="0" cont="去" pos="v" parent="1" relate="ADV" />
+                <word id="1" cont="吃" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="洪" pos="nz" parent="4" relate="ATT" />
+                <word id="3" cont="七" pos="m" parent="4" relate="ATT" />
+                <word id="4" cont="公" pos="n" parent="1" relate="VOB" />
+                <word id="5" cont="叫" pos="v" parent="1" relate="VOB" />
+                <word id="6" cont="化鸡" pos="n" parent="5" relate="VOB" />
+                <word id="7" cont="了" pos="u" parent="5" relate="RAD" />
+                <word id="8" cont="！" pos="wp" parent="1" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="晚上 的 火锅 还 不错 ！">
+                <word id="0" cont="晚上" pos="nt" parent="2" relate="ATT" />
+                <word id="1" cont="的" pos="u" parent="0" relate="RAD" />
+                <word id="2" cont="火锅" pos="n" parent="4" relate="SBV" />
+                <word id="3" cont="还" pos="d" parent="4" relate="ADV" />
+                <word id="4" cont="不错" pos="a" parent="-1" relate="HED" />
+                <word id="5" cont="！" pos="wp" parent="4" relate="WP" />
+            </sent>
+            <sent id="1" cont="不过 衣服 惨 点 ！">
+                <word id="0" cont="不过" pos="c" parent="2" relate="ADV" />
+                <word id="1" cont="衣服" pos="n" parent="2" relate="SBV" />
+                <word id="2" cont="惨" pos="a" parent="-1" relate="HED" />
+                <word id="3" cont="点" pos="q" parent="2" relate="RAD" />
+                <word id="4" cont="！" pos="wp" parent="2" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="某 业主 ： 在 小 商店 买 了 两 瓶 王老吉 ， 刚才 仔细 一 看 ， 是 “ 王老苦 ” 寒 啊">
+                <word id="0" cont="某" pos="r" parent="1" relate="ATT" />
+                <word id="1" cont="业主" pos="n" parent="6" relate="SBV" />
+                <word id="2" cont="：" pos="wp" parent="1" relate="WP" />
+                <word id="3" cont="在" pos="p" parent="6" relate="ADV" />
+                <word id="4" cont="小" pos="a" parent="5" relate="ATT" />
+                <word id="5" cont="商店" pos="n" parent="3" relate="POB" />
+                <word id="6" cont="买" pos="v" parent="17" relate="SBV" />
+                <word id="7" cont="了" pos="u" parent="6" relate="RAD" />
+                <word id="8" cont="两" pos="m" parent="9" relate="ATT" />
+                <word id="9" cont="瓶" pos="q" parent="10" relate="ATT" />
+                <word id="10" cont="王老吉" pos="nh" parent="6" relate="VOB" />
+                <word id="11" cont="，" pos="wp" parent="6" relate="WP" />
+                <word id="12" cont="刚才" pos="nt" parent="13" relate="ADV" />
+                <word id="13" cont="仔细" pos="a" parent="6" relate="COO" />
+                <word id="14" cont="一" pos="d" parent="15" relate="ADV" />
+                <word id="15" cont="看" pos="v" parent="13" relate="COO" />
+                <word id="16" cont="，" pos="wp" parent="6" relate="WP" />
+                <word id="17" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="18" cont="“" pos="wp" parent="19" relate="WP" />
+                <word id="19" cont="王老苦" pos="nh" parent="21" relate="SBV" />
+                <word id="20" cont="”" pos="wp" parent="19" relate="WP" />
+                <word id="21" cont="寒" pos="a" parent="17" relate="VOB" />
+                <word id="22" cont="啊" pos="u" parent="17" relate="RAD" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="刚 采 下来 的 葡萄 。">
+                <word id="0" cont="刚" pos="d" parent="1" relate="ADV" />
+                <word id="1" cont="采" pos="v" parent="4" relate="ATT" />
+                <word id="2" cont="下来" pos="v" parent="1" relate="CMP" />
+                <word id="3" cont="的" pos="u" parent="1" relate="RAD" />
+                <word id="4" cont="葡萄" pos="n" parent="-1" relate="HED" />
+                <word id="5" cont="。" pos="wp" parent="4" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="微波 第一 贴 ， 先 自 曝 最近 的 四川 行 ， 成都 文殊坊万州 烤鱼 ~ ~ ~ ~ ~ ~">
+                <word id="0" cont="微波" pos="n" parent="2" relate="ATT" />
+                <word id="1" cont="第一" pos="m" parent="2" relate="ATT" />
+                <word id="2" cont="贴" pos="q" parent="6" relate="FOB" />
+                <word id="3" cont="，" pos="wp" parent="2" relate="WP" />
+                <word id="4" cont="先" pos="d" parent="6" relate="ADV" />
+                <word id="5" cont="自" pos="p" parent="6" relate="SBV" />
+                <word id="6" cont="曝" pos="v" parent="-1" relate="HED" />
+                <word id="7" cont="最近" pos="nt" parent="9" relate="ATT" />
+                <word id="8" cont="的" pos="u" parent="7" relate="RAD" />
+                <word id="9" cont="四川" pos="ns" parent="6" relate="VOB" />
+                <word id="10" cont="行" pos="v" parent="6" relate="COO" />
+                <word id="11" cont="，" pos="wp" parent="6" relate="WP" />
+                <word id="12" cont="成都" pos="ns" parent="13" relate="ATT" />
+                <word id="13" cont="文殊坊万州" pos="ns" parent="14" relate="ATT" />
+                <word id="14" cont="烤鱼" pos="n" parent="15" relate="SBV" />
+                <word id="15" cont="~" pos="v" parent="6" relate="COO" />
+                <word id="16" cont="~" pos="n" parent="15" relate="VOB" />
+                <word id="17" cont="~" pos="v" parent="15" relate="COO" />
+                <word id="18" cont="~" pos="n" parent="17" relate="VOB" />
+                <word id="19" cont="~" pos="v" parent="15" relate="COO" />
+                <word id="20" cont="~" pos="n" parent="19" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="女人 20 岁 是 桃花 ， 鲜艳 ；">
+                <word id="0" cont="女人" pos="n" parent="2" relate="SBV" />
+                <word id="1" cont="20" pos="m" parent="2" relate="ATT" />
+                <word id="2" cont="岁" pos="q" parent="3" relate="SBV" />
+                <word id="3" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="4" cont="桃花" pos="n" parent="3" relate="VOB" />
+                <word id="5" cont="，" pos="wp" parent="3" relate="WP" />
+                <word id="6" cont="鲜艳" pos="a" parent="3" relate="COO" />
+                <word id="7" cont="；" pos="wp" parent="3" relate="WP" />
+            </sent>
+            <sent id="1" cont="30 岁 是 玫瑰 ， 迷人 ；">
+                <word id="0" cont="30" pos="m" parent="1" relate="ATT" />
+                <word id="1" cont="岁" pos="q" parent="2" relate="SBV" />
+                <word id="2" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="3" cont="玫瑰" pos="n" parent="2" relate="VOB" />
+                <word id="4" cont="，" pos="wp" parent="2" relate="WP" />
+                <word id="5" cont="迷人" pos="a" parent="2" relate="COO" />
+                <word id="6" cont="；" pos="wp" parent="2" relate="WP" />
+            </sent>
+            <sent id="2" cont="40 岁 是 牡丹 ， 大气 ；">
+                <word id="0" cont="40" pos="m" parent="1" relate="ATT" />
+                <word id="1" cont="岁" pos="q" parent="2" relate="SBV" />
+                <word id="2" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="3" cont="牡丹" pos="n" parent="2" relate="VOB" />
+                <word id="4" cont="，" pos="wp" parent="2" relate="WP" />
+                <word id="5" cont="大气" pos="n" parent="2" relate="COO" />
+                <word id="6" cont="；" pos="wp" parent="2" relate="WP" />
+            </sent>
+            <sent id="3" cont="50 岁 是 兰花 ， 淡定 ；">
+                <word id="0" cont="50" pos="m" parent="1" relate="ATT" />
+                <word id="1" cont="岁" pos="q" parent="2" relate="SBV" />
+                <word id="2" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="3" cont="兰花" pos="n" parent="2" relate="VOB" />
+                <word id="4" cont="，" pos="wp" parent="2" relate="WP" />
+                <word id="5" cont="淡定" pos="i" parent="2" relate="COO" />
+                <word id="6" cont="；" pos="wp" parent="2" relate="WP" />
+            </sent>
+            <sent id="4" cont="60 岁 是 棉花 ， 温暖 ；">
+                <word id="0" cont="60" pos="m" parent="1" relate="ATT" />
+                <word id="1" cont="岁" pos="q" parent="2" relate="SBV" />
+                <word id="2" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="3" cont="棉花" pos="n" parent="2" relate="VOB" />
+                <word id="4" cont="，" pos="wp" parent="2" relate="WP" />
+                <word id="5" cont="温暖" pos="a" parent="2" relate="COO" />
+                <word id="6" cont="；" pos="wp" parent="2" relate="WP" />
+            </sent>
+            <sent id="5" cont="一生 如 花 ！">
+                <word id="0" cont="一生" pos="n" parent="1" relate="SBV" />
+                <word id="1" cont="如" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="花" pos="n" parent="1" relate="VOB" />
+                <word id="3" cont="！" pos="wp" parent="1" relate="WP" />
+            </sent>
+            <sent id="6" cont="祝 如 花 的 女人 们 更加 娇艳 迷人 ，">
+                <word id="0" cont="祝" pos="v" parent="4" relate="ATT" />
+                <word id="1" cont="如" pos="v" parent="0" relate="CMP" />
+                <word id="2" cont="花" pos="n" parent="1" relate="POB" />
+                <word id="3" cont="的" pos="u" parent="0" relate="RAD" />
+                <word id="4" cont="女人" pos="n" parent="7" relate="SBV" />
+                <word id="5" cont="们" pos="k" parent="4" relate="RAD" />
+                <word id="6" cont="更加" pos="d" parent="7" relate="ADV" />
+                <word id="7" cont="娇艳" pos="a" parent="-1" relate="HED" />
+                <word id="8" cont="迷人" pos="a" parent="7" relate="COO" />
+                <word id="9" cont="，" pos="wp" parent="7" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="昨天 吵 了 一 天 的 油价 上涨 ， 居然 没有 下文 了 ， 大约 发改委 的 肉食者 们 也 很 纠结 ， 怎么 能 让 老百姓 预测 到 涨价 的 周期 和 额度 呢 ， 这 岂 不 是 显得 人家 肉 都 白 吃 了 ， 再说 了 ， 揣摩 上意 从来 都 是 大 罪过 ！">
+                <word id="0" cont="昨天" pos="nt" parent="1" relate="ADV" />
+                <word id="1" cont="吵" pos="v" parent="6" relate="ATT" />
+                <word id="2" cont="了" pos="u" parent="1" relate="RAD" />
+                <word id="3" cont="一" pos="m" parent="4" relate="ATT" />
+                <word id="4" cont="天" pos="q" parent="1" relate="CMP" />
+                <word id="5" cont="的" pos="u" parent="1" relate="RAD" />
+                <word id="6" cont="油价" pos="n" parent="7" relate="SBV" />
+                <word id="7" cont="上涨" pos="v" parent="17" relate="ATT" />
+                <word id="8" cont="，" pos="wp" parent="7" relate="WP" />
+                <word id="9" cont="居然" pos="d" parent="10" relate="ADV" />
+                <word id="10" cont="没有" pos="v" parent="7" relate="COO" />
+                <word id="11" cont="下文" pos="n" parent="10" relate="VOB" />
+                <word id="12" cont="了" pos="u" parent="10" relate="RAD" />
+                <word id="13" cont="，" pos="wp" parent="7" relate="WP" />
+                <word id="14" cont="大约" pos="d" parent="15" relate="ADV" />
+                <word id="15" cont="发改委" pos="v" parent="7" relate="COO" />
+                <word id="16" cont="的" pos="u" parent="7" relate="RAD" />
+                <word id="17" cont="肉食者" pos="n" parent="21" relate="SBV" />
+                <word id="18" cont="们" pos="k" parent="17" relate="RAD" />
+                <word id="19" cont="也" pos="d" parent="21" relate="ADV" />
+                <word id="20" cont="很" pos="d" parent="21" relate="ADV" />
+                <word id="21" cont="纠结" pos="v" parent="39" relate="SBV" />
+                <word id="22" cont="，" pos="wp" parent="21" relate="WP" />
+                <word id="23" cont="怎么" pos="r" parent="24" relate="ADV" />
+                <word id="24" cont="能" pos="v" parent="25" relate="ADV" />
+                <word id="25" cont="让" pos="v" parent="21" relate="COO" />
+                <word id="26" cont="老百姓" pos="n" parent="25" relate="DBL" />
+                <word id="27" cont="预测" pos="v" parent="25" relate="VOB" />
+                <word id="28" cont="到" pos="v" parent="27" relate="CMP" />
+                <word id="29" cont="涨价" pos="v" parent="31" relate="ATT" />
+                <word id="30" cont="的" pos="u" parent="29" relate="RAD" />
+                <word id="31" cont="周期" pos="n" parent="28" relate="POB" />
+                <word id="32" cont="和" pos="c" parent="33" relate="LAD" />
+                <word id="33" cont="额度" pos="n" parent="31" relate="COO" />
+                <word id="34" cont="呢" pos="u" parent="28" relate="RAD" />
+                <word id="35" cont="，" pos="wp" parent="21" relate="WP" />
+                <word id="36" cont="这" pos="r" parent="39" relate="SBV" />
+                <word id="37" cont="岂" pos="d" parent="39" relate="ADV" />
+                <word id="38" cont="不" pos="d" parent="39" relate="ADV" />
+                <word id="39" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="40" cont="显得" pos="v" parent="45" relate="SBV" />
+                <word id="41" cont="人家" pos="r" parent="42" relate="ATT" />
+                <word id="42" cont="肉" pos="n" parent="40" relate="VOB" />
+                <word id="43" cont="都" pos="d" parent="45" relate="ADV" />
+                <word id="44" cont="白" pos="d" parent="45" relate="ADV" />
+                <word id="45" cont="吃" pos="v" parent="39" relate="VOB" />
+                <word id="46" cont="了" pos="u" parent="45" relate="RAD" />
+                <word id="47" cont="，" pos="wp" parent="45" relate="WP" />
+                <word id="48" cont="再说" pos="v" parent="45" relate="COO" />
+                <word id="49" cont="了" pos="u" parent="48" relate="RAD" />
+                <word id="50" cont="，" pos="wp" parent="45" relate="WP" />
+                <word id="51" cont="揣摩" pos="v" parent="55" relate="SBV" />
+                <word id="52" cont="上意" pos="n" parent="51" relate="VOB" />
+                <word id="53" cont="从来" pos="d" parent="55" relate="ADV" />
+                <word id="54" cont="都" pos="d" parent="55" relate="ADV" />
+                <word id="55" cont="是" pos="v" parent="45" relate="COO" />
+                <word id="56" cont="大" pos="a" parent="57" relate="ATT" />
+                <word id="57" cont="罪过" pos="n" parent="55" relate="VOB" />
+                <word id="58" cont="！" pos="wp" parent="39" relate="WP" />
+            </sent>
+            <sent id="1" cont="所以 ， 今天 先 抛 出 鸡蛋 价格 上涨 的 新闻 来 吸引 眼球 ， 明天 再 公布 油价 的 上涨 。">
+                <word id="0" cont="所以" pos="c" parent="12" relate="ADV" />
+                <word id="1" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="2" cont="今天" pos="nt" parent="4" relate="ADV" />
+                <word id="3" cont="先" pos="d" parent="4" relate="ADV" />
+                <word id="4" cont="抛" pos="v" parent="10" relate="ATT" />
+                <word id="5" cont="出" pos="v" parent="4" relate="CMP" />
+                <word id="6" cont="鸡蛋" pos="n" parent="7" relate="ATT" />
+                <word id="7" cont="价格" pos="n" parent="8" relate="SBV" />
+                <word id="8" cont="上涨" pos="v" parent="4" relate="VOB" />
+                <word id="9" cont="的" pos="u" parent="4" relate="RAD" />
+                <word id="10" cont="新闻" pos="n" parent="12" relate="SBV" />
+                <word id="11" cont="来" pos="v" parent="12" relate="ADV" />
+                <word id="12" cont="吸引" pos="v" parent="-1" relate="HED" />
+                <word id="13" cont="眼球" pos="n" parent="12" relate="VOB" />
+                <word id="14" cont="，" pos="wp" parent="12" relate="WP" />
+                <word id="15" cont="明天" pos="nt" parent="17" relate="ADV" />
+                <word id="16" cont="再" pos="d" parent="17" relate="ADV" />
+                <word id="17" cont="公布" pos="v" parent="12" relate="COO" />
+                <word id="18" cont="油价" pos="n" parent="20" relate="ATT" />
+                <word id="19" cont="的" pos="u" parent="18" relate="RAD" />
+                <word id="20" cont="上涨" pos="v" parent="17" relate="VOB" />
+                <word id="21" cont="。" pos="wp" parent="12" relate="WP" />
+            </sent>
+            <sent id="2" cont="毕竟 ， 鸡蛋 都 涨 了 ， 凭 啥 不 让 油涨 ？">
+                <word id="0" cont="毕竟" pos="d" parent="4" relate="ADV" />
+                <word id="1" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="2" cont="鸡蛋" pos="n" parent="4" relate="SBV" />
+                <word id="3" cont="都" pos="d" parent="4" relate="ADV" />
+                <word id="4" cont="涨" pos="v" parent="-1" relate="HED" />
+                <word id="5" cont="了" pos="u" parent="4" relate="RAD" />
+                <word id="6" cont="，" pos="wp" parent="4" relate="WP" />
+                <word id="7" cont="凭" pos="p" parent="10" relate="ADV" />
+                <word id="8" cont="啥" pos="r" parent="7" relate="POB" />
+                <word id="9" cont="不" pos="d" parent="10" relate="ADV" />
+                <word id="10" cont="让" pos="v" parent="4" relate="COO" />
+                <word id="11" cont="油涨" pos="n" parent="10" relate="POB" />
+                <word id="12" cont="？" pos="wp" parent="4" relate="WP" />
+            </sent>
+            <sent id="3" cont="拭目以待 。">
+                <word id="0" cont="拭目以待" pos="i" parent="-1" relate="HED" />
+                <word id="1" cont="。" pos="wp" parent="0" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="新浪 科技 新闻 京东方 昨晚 公告 称 ， 将 投资 280亿 元 在 北京 建设 国内 首 条 第八 代 薄膜 晶体管 液晶 显示 器件 生产线 ；">
+                <word id="0" cont="新浪" pos="n" parent="1" relate="ATT" />
+                <word id="1" cont="科技" pos="n" parent="2" relate="ATT" />
+                <word id="2" cont="新闻" pos="n" parent="3" relate="ATT" />
+                <word id="3" cont="京东方" pos="n" parent="6" relate="SBV" />
+                <word id="4" cont="昨晚" pos="nt" parent="6" relate="ADV" />
+                <word id="5" cont="公告" pos="n" parent="6" relate="SBV" />
+                <word id="6" cont="称" pos="v" parent="-1" relate="HED" />
+                <word id="7" cont="，" pos="wp" parent="6" relate="WP" />
+                <word id="8" cont="将" pos="d" parent="9" relate="ADV" />
+                <word id="9" cont="投资" pos="v" parent="6" relate="VOB" />
+                <word id="10" cont="280亿" pos="m" parent="11" relate="ATT" />
+                <word id="11" cont="元" pos="q" parent="9" relate="VOB" />
+                <word id="12" cont="在" pos="p" parent="14" relate="ADV" />
+                <word id="13" cont="北京" pos="ns" parent="12" relate="POB" />
+                <word id="14" cont="建设" pos="v" parent="9" relate="COO" />
+                <word id="15" cont="国内" pos="nl" parent="25" relate="ATT" />
+                <word id="16" cont="首" pos="m" parent="17" relate="ATT" />
+                <word id="17" cont="条" pos="q" parent="25" relate="ATT" />
+                <word id="18" cont="第八" pos="m" parent="19" relate="ATT" />
+                <word id="19" cont="代" pos="q" parent="21" relate="ATT" />
+                <word id="20" cont="薄膜" pos="n" parent="21" relate="ATT" />
+                <word id="21" cont="晶体管" pos="n" parent="22" relate="ATT" />
+                <word id="22" cont="液晶" pos="n" parent="23" relate="SBV" />
+                <word id="23" cont="显示" pos="v" parent="25" relate="ATT" />
+                <word id="24" cont="器件" pos="n" parent="23" relate="VOB" />
+                <word id="25" cont="生产线" pos="n" parent="14" relate="VOB" />
+                <word id="26" cont="；" pos="wp" parent="6" relate="WP" />
+            </sent>
+            <sent id="1" cont="消息 称 苹果 9月 9日 推 新版 iPod 。">
+                <word id="0" cont="消息" pos="n" parent="1" relate="SBV" />
+                <word id="1" cont="称" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="苹果" pos="n" parent="5" relate="SBV" />
+                <word id="3" cont="9月" pos="nt" parent="4" relate="ATT" />
+                <word id="4" cont="9日" pos="nt" parent="5" relate="ADV" />
+                <word id="5" cont="推" pos="v" parent="1" relate="VOB" />
+                <word id="6" cont="新版" pos="b" parent="7" relate="ATT" />
+                <word id="7" cont="iPod" pos="n" parent="5" relate="VOB" />
+                <word id="8" cont="。" pos="wp" parent="1" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="# 头像 # 的确 无法 上传 头像 的 样子 ， 吃 完 饭 裁 个 合适 比例 的 再 试">
+                <word id="0" cont="#" pos="v" parent="2" relate="ATT" />
+                <word id="1" cont="头像" pos="n" parent="0" relate="VOB" />
+                <word id="2" cont="#" pos="n" parent="5" relate="SBV" />
+                <word id="3" cont="的确" pos="d" parent="5" relate="ADV" />
+                <word id="4" cont="无法" pos="v" parent="5" relate="ADV" />
+                <word id="5" cont="上传" pos="v" parent="-1" relate="HED" />
+                <word id="6" cont="头像" pos="n" parent="8" relate="ATT" />
+                <word id="7" cont="的" pos="u" parent="6" relate="RAD" />
+                <word id="8" cont="样子" pos="n" parent="5" relate="VOB" />
+                <word id="9" cont="，" pos="wp" parent="5" relate="WP" />
+                <word id="10" cont="吃" pos="v" parent="5" relate="COO" />
+                <word id="11" cont="完" pos="v" parent="10" relate="CMP" />
+                <word id="12" cont="饭" pos="n" parent="10" relate="VOB" />
+                <word id="13" cont="裁" pos="v" parent="10" relate="COO" />
+                <word id="14" cont="个" pos="q" parent="16" relate="ATT" />
+                <word id="15" cont="合适" pos="a" parent="16" relate="ATT" />
+                <word id="16" cont="比例" pos="n" parent="13" relate="VOB" />
+                <word id="17" cont="的" pos="u" parent="10" relate="RAD" />
+                <word id="18" cont="再" pos="d" parent="19" relate="ADV" />
+                <word id="19" cont="试" pos="v" parent="5" relate="COO" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="十一 回家 ， 不 知道 还有 没 有 葡萄 吃 ， 哈密瓜 肯定 是 有的">
+                <word id="0" cont="十一" pos="m" parent="1" relate="ADV" />
+                <word id="1" cont="回家" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="3" cont="不" pos="d" parent="4" relate="ADV" />
+                <word id="4" cont="知道" pos="v" parent="1" relate="COO" />
+                <word id="5" cont="还有" pos="v" parent="4" relate="VOB" />
+                <word id="6" cont="没" pos="d" parent="7" relate="ADV" />
+                <word id="7" cont="有" pos="v" parent="4" relate="VOB" />
+                <word id="8" cont="葡萄" pos="n" parent="7" relate="VOB" />
+                <word id="9" cont="吃" pos="v" parent="7" relate="VOB" />
+                <word id="10" cont="，" pos="wp" parent="4" relate="WP" />
+                <word id="11" cont="哈密瓜" pos="n" parent="13" relate="SBV" />
+                <word id="12" cont="肯定" pos="d" parent="13" relate="ADV" />
+                <word id="13" cont="是" pos="v" parent="4" relate="COO" />
+                <word id="14" cont="有的" pos="r" parent="13" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="为了 保命 先 吃饭 哪怕 快餐 也 得 干 掉">
+                <word id="0" cont="为了" pos="p" parent="3" relate="ADV" />
+                <word id="1" cont="保命" pos="v" parent="0" relate="POB" />
+                <word id="2" cont="先" pos="d" parent="3" relate="ADV" />
+                <word id="3" cont="吃饭" pos="v" parent="-1" relate="HED" />
+                <word id="4" cont="哪怕" pos="c" parent="8" relate="ADV" />
+                <word id="5" cont="快餐" pos="n" parent="8" relate="SBV" />
+                <word id="6" cont="也" pos="d" parent="7" relate="ADV" />
+                <word id="7" cont="得" pos="v" parent="8" relate="ADV" />
+                <word id="8" cont="干" pos="v" parent="3" relate="COO" />
+                <word id="9" cont="掉" pos="v" parent="8" relate="CMP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="午饭 又 是 肯德基 ， 失败 啊 失败 ～">
+                <word id="0" cont="午饭" pos="n" parent="2" relate="SBV" />
+                <word id="1" cont="又" pos="d" parent="2" relate="ADV" />
+                <word id="2" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="3" cont="肯德基" pos="nz" parent="2" relate="VOB" />
+                <word id="4" cont="，" pos="wp" parent="2" relate="WP" />
+                <word id="5" cont="失败" pos="v" parent="7" relate="SBV" />
+                <word id="6" cont="啊" pos="u" parent="5" relate="RAD" />
+                <word id="7" cont="失败" pos="v" parent="2" relate="COO" />
+                <word id="8" cont="～" pos="n" parent="7" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="我 是 来 打 酱油 的 ...">
+                <word id="0" cont="我" pos="r" parent="1" relate="SBV" />
+                <word id="1" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="来" pos="v" parent="3" relate="ADV" />
+                <word id="3" cont="打" pos="v" parent="6" relate="ATT" />
+                <word id="4" cont="酱油" pos="n" parent="3" relate="VOB" />
+                <word id="5" cont="的" pos="u" parent="3" relate="RAD" />
+                <word id="6" cont="..." pos="n" parent="1" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="鸡丁 Government Abused Chicken 宫保鸡丁">
+                <word id="0" cont="鸡丁" pos="n" parent="4" relate="ATT" />
+                <word id="1" cont="Government" pos="ws" parent="4" relate="ATT" />
+                <word id="2" cont="Abused" pos="ws" parent="4" relate="ATT" />
+                <word id="3" cont="Chicken" pos="ws" parent="4" relate="ATT" />
+                <word id="4" cont="宫保鸡丁" pos="n" parent="-1" relate="HED" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="Little grass has life ， please watch your step 小草 有 生命 ， 足 下 请 留情">
+                <word id="0" cont="Little" pos="ws" parent="1" relate="SBV" />
+                <word id="1" cont="grass" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="has" pos="n" parent="1" relate="VOB" />
+                <word id="3" cont="life" pos="v" parent="1" relate="COO" />
+                <word id="4" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="5" cont="please" pos="ws" parent="6" relate="SBV" />
+                <word id="6" cont="watch" pos="v" parent="1" relate="COO" />
+                <word id="7" cont="your" pos="n" parent="6" relate="VOB" />
+                <word id="8" cont="step" pos="v" parent="6" relate="COO" />
+                <word id="9" cont="小草" pos="n" parent="8" relate="VOB" />
+                <word id="10" cont="有" pos="v" parent="6" relate="COO" />
+                <word id="11" cont="生命" pos="n" parent="10" relate="VOB" />
+                <word id="12" cont="，" pos="wp" parent="6" relate="WP" />
+                <word id="13" cont="足" pos="n" parent="14" relate="ATT" />
+                <word id="14" cont="下" pos="nd" parent="15" relate="ADV" />
+                <word id="15" cont="请" pos="v" parent="6" relate="COO" />
+                <word id="16" cont="留情" pos="v" parent="15" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="我 改行 卖 酱油 啦 ~ ~ 欢迎 打 酱油 的 路过 ~ ~">
+                <word id="0" cont="我" pos="r" parent="1" relate="SBV" />
+                <word id="1" cont="改行" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="卖" pos="v" parent="1" relate="COO" />
+                <word id="3" cont="酱油" pos="n" parent="2" relate="VOB" />
+                <word id="4" cont="啦" pos="u" parent="2" relate="RAD" />
+                <word id="5" cont="~" pos="v" parent="1" relate="COO" />
+                <word id="6" cont="~" pos="n" parent="5" relate="VOB" />
+                <word id="7" cont="欢迎" pos="v" parent="5" relate="COO" />
+                <word id="8" cont="打" pos="v" parent="7" relate="COO" />
+                <word id="9" cont="酱油" pos="n" parent="8" relate="VOB" />
+                <word id="10" cont="的" pos="u" parent="5" relate="RAD" />
+                <word id="11" cont="路过" pos="v" parent="1" relate="COO" />
+                <word id="12" cont="~" pos="v" parent="11" relate="COO" />
+                <word id="13" cont="~" pos="n" parent="12" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="Deep fried ghost variant , deep fried devil and oil fried ghost = 油炸鬼 = 油条">
+                <word id="0" cont="Deep" pos="ws" parent="1" relate="SBV" />
+                <word id="1" cont="fried" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="ghost" pos="v" parent="1" relate="COO" />
+                <word id="3" cont="variant" pos="n" parent="2" relate="VOB" />
+                <word id="4" cont="," pos="wp" parent="7" relate="WP" />
+                <word id="5" cont="deep" pos="v" parent="7" relate="SBV" />
+                <word id="6" cont="fried" pos="v" parent="5" relate="COO" />
+                <word id="7" cont="devil" pos="v" parent="2" relate="COO" />
+                <word id="8" cont="and" pos="n" parent="7" relate="VOB" />
+                <word id="9" cont="oil" pos="v" parent="7" relate="COO" />
+                <word id="10" cont="fried" pos="v" parent="9" relate="COO" />
+                <word id="11" cont="ghost" pos="ws" parent="15" relate="ATT" />
+                <word id="12" cont="=" pos="wp" parent="13" relate="WP" />
+                <word id="13" cont="油炸鬼" pos="n" parent="15" relate="ATT" />
+                <word id="14" cont="=" pos="wp" parent="13" relate="WP" />
+                <word id="15" cont="油条" pos="n" parent="10" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="我 吃 完 饭 就 困">
+                <word id="0" cont="我" pos="r" parent="1" relate="SBV" />
+                <word id="1" cont="吃" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="完" pos="v" parent="1" relate="CMP" />
+                <word id="3" cont="饭" pos="n" parent="1" relate="VOB" />
+                <word id="4" cont="就" pos="d" parent="5" relate="ADV" />
+                <word id="5" cont="困" pos="v" parent="1" relate="COO" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="爆米花 是 健康 食品">
+                <word id="0" cont="爆米花" pos="v" parent="1" relate="SBV" />
+                <word id="1" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="健康" pos="a" parent="3" relate="ATT" />
+                <word id="3" cont="食品" pos="n" parent="1" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="别 拿 粉丝 不当 干粮">
+                <word id="0" cont="别" pos="d" parent="1" relate="ADV" />
+                <word id="1" cont="拿" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="粉丝" pos="n" parent="4" relate="ATT" />
+                <word id="3" cont="不当" pos="a" parent="4" relate="ATT" />
+                <word id="4" cont="干粮" pos="n" parent="1" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="可怜 的 苹果 ， 就 这样 中国 化 了 ……">
+                <word id="0" cont="可怜" pos="v" parent="2" relate="ATT" />
+                <word id="1" cont="的" pos="u" parent="0" relate="RAD" />
+                <word id="2" cont="苹果" pos="n" parent="7" relate="SBV" />
+                <word id="3" cont="，" pos="wp" parent="2" relate="WP" />
+                <word id="4" cont="就" pos="d" parent="7" relate="ADV" />
+                <word id="5" cont="这样" pos="r" parent="7" relate="ATT" />
+                <word id="6" cont="中国" pos="ns" parent="7" relate="ATT" />
+                <word id="7" cont="化" pos="v" parent="-1" relate="HED" />
+                <word id="8" cont="了" pos="u" parent="7" relate="RAD" />
+                <word id="9" cont="……" pos="wp" parent="7" relate="WP" />
+            </sent>
+            <sent id="1" cont="太监">
+                <word id="0" cont="太监" pos="nh" parent="-1" relate="HED" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="昨天 七夕 大家 都 怎么 过 的 ？">
+                <word id="0" cont="昨天" pos="nt" parent="1" relate="ATT" />
+                <word id="1" cont="七夕" pos="nt" parent="5" relate="ADV" />
+                <word id="2" cont="大家" pos="r" parent="5" relate="SBV" />
+                <word id="3" cont="都" pos="d" parent="5" relate="ADV" />
+                <word id="4" cont="怎么" pos="r" parent="5" relate="ADV" />
+                <word id="5" cont="过" pos="v" parent="-1" relate="HED" />
+                <word id="6" cont="的" pos="u" parent="5" relate="RAD" />
+                <word id="7" cont="？" pos="wp" parent="5" relate="WP" />
+            </sent>
+            <sent id="1" cont="我 LG 说 给 我 准备 了 礼物 ， 竟然 是 相册 ， 我们 共用 的 ！">
+                <word id="0" cont="我" pos="r" parent="2" relate="SBV" />
+                <word id="1" cont="LG" pos="ws" parent="2" relate="SBV" />
+                <word id="2" cont="说" pos="v" parent="-1" relate="HED" />
+                <word id="3" cont="给" pos="v" parent="2" relate="CMP" />
+                <word id="4" cont="我" pos="r" parent="3" relate="POB" />
+                <word id="5" cont="准备" pos="v" parent="3" relate="VOB" />
+                <word id="6" cont="了" pos="u" parent="5" relate="RAD" />
+                <word id="7" cont="礼物" pos="n" parent="5" relate="VOB" />
+                <word id="8" cont="，" pos="wp" parent="5" relate="WP" />
+                <word id="9" cont="竟然" pos="d" parent="10" relate="ADV" />
+                <word id="10" cont="是" pos="v" parent="5" relate="COO" />
+                <word id="11" cont="相册" pos="n" parent="10" relate="VOB" />
+                <word id="12" cont="，" pos="wp" parent="5" relate="WP" />
+                <word id="13" cont="我们" pos="r" parent="14" relate="ATT" />
+                <word id="14" cont="共用" pos="b" parent="5" relate="COO" />
+                <word id="15" cont="的" pos="u" parent="14" relate="RAD" />
+                <word id="16" cont="！" pos="wp" parent="2" relate="WP" />
+            </sent>
+            <sent id="2" cont="请 我 吃饭 ， 吃 的 麻辣烫 !">
+                <word id="0" cont="请" pos="v" parent="-1" relate="HED" />
+                <word id="1" cont="我" pos="r" parent="0" relate="DBL" />
+                <word id="2" cont="吃饭" pos="v" parent="0" relate="VOB" />
+                <word id="3" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="4" cont="吃" pos="v" parent="6" relate="ATT" />
+                <word id="5" cont="的" pos="u" parent="4" relate="RAD" />
+                <word id="6" cont="麻辣烫" pos="n" parent="0" relate="COO" />
+                <word id="7" cont="!" pos="wp" parent="0" relate="WP" />
+            </sent>
+            <sent id="3" cont="哎 ， 这 一 结婚 档次 都 降 了">
+                <word id="0" cont="哎" pos="e" parent="5" relate="ATT" />
+                <word id="1" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="2" cont="这" pos="r" parent="3" relate="ATT" />
+                <word id="3" cont="一" pos="m" parent="5" relate="ATT" />
+                <word id="4" cont="结婚" pos="v" parent="5" relate="ATT" />
+                <word id="5" cont="档次" pos="n" parent="7" relate="SBV" />
+                <word id="6" cont="都" pos="d" parent="7" relate="ADV" />
+                <word id="7" cont="降" pos="v" parent="-1" relate="HED" />
+                <word id="8" cont="了" pos="u" parent="7" relate="RAD" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="高清 机器 快 白菜 价 了">
+                <word id="0" cont="高清" pos="nh" parent="1" relate="ATT" />
+                <word id="1" cont="机器" pos="n" parent="4" relate="ATT" />
+                <word id="2" cont="快" pos="a" parent="3" relate="ATT" />
+                <word id="3" cont="白菜" pos="n" parent="4" relate="ATT" />
+                <word id="4" cont="价" pos="n" parent="-1" relate="HED" />
+                <word id="5" cont="了" pos="u" parent="4" relate="RAD" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="中国 联通 已 与 苹果 公司 签署 iPhone 入 华 协议 600050 带领 上 证 翻 红">
+                <word id="0" cont="中国" pos="ns" parent="1" relate="ATT" />
+                <word id="1" cont="联通" pos="j" parent="6" relate="SBV" />
+                <word id="2" cont="已" pos="d" parent="6" relate="ADV" />
+                <word id="3" cont="与" pos="p" parent="6" relate="ADV" />
+                <word id="4" cont="苹果" pos="n" parent="5" relate="ATT" />
+                <word id="5" cont="公司" pos="n" parent="3" relate="POB" />
+                <word id="6" cont="签署" pos="v" parent="10" relate="ATT" />
+                <word id="7" cont="iPhone" pos="ws" parent="6" relate="VOB" />
+                <word id="8" cont="入" pos="v" parent="6" relate="COO" />
+                <word id="9" cont="华" pos="j" parent="8" relate="VOB" />
+                <word id="10" cont="协议" pos="n" parent="12" relate="SBV" />
+                <word id="11" cont="600050" pos="m" parent="12" relate="ATT" />
+                <word id="12" cont="带领" pos="v" parent="-1" relate="HED" />
+                <word id="13" cont="上" pos="nd" parent="12" relate="CMP" />
+                <word id="14" cont="证" pos="n" parent="12" relate="VOB" />
+                <word id="15" cont="翻" pos="v" parent="12" relate="VOB" />
+                <word id="16" cont="红" pos="a" parent="15" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="中午 和 朋友 一起 吃 了 顿 饭 , TA 马上 要 辞职 了 , 因为 腰 痛 。">
+                <word id="0" cont="中午" pos="nt" parent="4" relate="ADV" />
+                <word id="1" cont="和" pos="p" parent="3" relate="ADV" />
+                <word id="2" cont="朋友" pos="n" parent="1" relate="POB" />
+                <word id="3" cont="一起" pos="nl" parent="4" relate="ADV" />
+                <word id="4" cont="吃" pos="v" parent="-1" relate="HED" />
+                <word id="5" cont="了" pos="u" parent="4" relate="RAD" />
+                <word id="6" cont="顿" pos="q" parent="7" relate="ATT" />
+                <word id="7" cont="饭" pos="n" parent="4" relate="VOB" />
+                <word id="8" cont="," pos="wp" parent="12" relate="WP" />
+                <word id="9" cont="TA" pos="ws" parent="12" relate="SBV" />
+                <word id="10" cont="马上" pos="d" parent="11" relate="ADV" />
+                <word id="11" cont="要" pos="v" parent="12" relate="ADV" />
+                <word id="12" cont="辞职" pos="v" parent="4" relate="COO" />
+                <word id="13" cont="了" pos="u" parent="12" relate="RAD" />
+                <word id="14" cont="," pos="wp" parent="17" relate="WP" />
+                <word id="15" cont="因为" pos="c" parent="17" relate="ADV" />
+                <word id="16" cont="腰" pos="n" parent="17" relate="SBV" />
+                <word id="17" cont="痛" pos="a" parent="12" relate="VOB" />
+                <word id="18" cont="。" pos="wp" parent="4" relate="WP" />
+            </sent>
+            <sent id="1" cont="八 了 一下 旧日 朋友 的 状况 ......">
+                <word id="0" cont="八" pos="m" parent="2" relate="ATT" />
+                <word id="1" cont="了" pos="u" parent="0" relate="RAD" />
+                <word id="2" cont="一下" pos="m" parent="-1" relate="HED" />
+                <word id="3" cont="旧日" pos="n" parent="4" relate="ATT" />
+                <word id="4" cont="朋友" pos="n" parent="6" relate="ATT" />
+                <word id="5" cont="的" pos="u" parent="4" relate="RAD" />
+                <word id="6" cont="状况" pos="n" parent="2" relate="VOB" />
+                <word id="7" cont="......" pos="wp" parent="2" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="哈哈 ， 今天 中午 吃 了 牛肉 fano ~ ~ hehe">
+                <word id="0" cont="哈哈" pos="o" parent="4" relate="SBV" />
+                <word id="1" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="2" cont="今天" pos="nt" parent="3" relate="ATT" />
+                <word id="3" cont="中午" pos="nt" parent="4" relate="ADV" />
+                <word id="4" cont="吃" pos="v" parent="7" relate="ATT" />
+                <word id="5" cont="了" pos="u" parent="4" relate="RAD" />
+                <word id="6" cont="牛肉" pos="n" parent="4" relate="VOB" />
+                <word id="7" cont="fano" pos="n" parent="8" relate="SBV" />
+                <word id="8" cont="~" pos="v" parent="-1" relate="HED" />
+                <word id="9" cont="~" pos="v" parent="8" relate="COO" />
+                <word id="10" cont="hehe" pos="n" parent="9" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="我 曾经 有 个 网名 叫做 石莲 豆腐 ！">
+                <word id="0" cont="我" pos="r" parent="2" relate="SBV" />
+                <word id="1" cont="曾经" pos="d" parent="2" relate="ADV" />
+                <word id="2" cont="有" pos="v" parent="-1" relate="HED" />
+                <word id="3" cont="个" pos="q" parent="4" relate="ATT" />
+                <word id="4" cont="网名" pos="n" parent="2" relate="VOB" />
+                <word id="5" cont="叫做" pos="v" parent="2" relate="VOB" />
+                <word id="6" cont="石莲" pos="ns" parent="7" relate="ATT" />
+                <word id="7" cont="豆腐" pos="n" parent="5" relate="VOB" />
+                <word id="8" cont="！" pos="wp" parent="2" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="时尚 女星 二十四 款 粽子 装 ( 组图 ）">
+                <word id="0" cont="时尚" pos="n" parent="1" relate="ATT" />
+                <word id="1" cont="女星" pos="n" parent="4" relate="ATT" />
+                <word id="2" cont="二十四" pos="m" parent="3" relate="ATT" />
+                <word id="3" cont="款" pos="q" parent="4" relate="ATT" />
+                <word id="4" cont="粽子" pos="n" parent="5" relate="ATT" />
+                <word id="5" cont="装" pos="v" parent="-1" relate="HED" />
+                <word id="6" cont="(" pos="wp" parent="7" relate="WP" />
+                <word id="7" cont="组图" pos="n" parent="5" relate="VOB" />
+                <word id="8" cont="）" pos="wp" parent="7" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="我家 小朋友 写 的 诗 ： 远 上 寒山 看 萝卜 ， 白云 深处 有 萝卜 ， 停车 坐 爱 种 萝卜 ， 霜叶 红 于 胡萝卜 。">
+                <word id="0" cont="我家" pos="n" parent="1" relate="ATT" />
+                <word id="1" cont="小朋友" pos="n" parent="2" relate="SBV" />
+                <word id="2" cont="写" pos="v" parent="4" relate="ATT" />
+                <word id="3" cont="的" pos="u" parent="2" relate="RAD" />
+                <word id="4" cont="诗" pos="n" parent="7" relate="SBV" />
+                <word id="5" cont="：" pos="wp" parent="4" relate="WP" />
+                <word id="6" cont="远" pos="a" parent="7" relate="ADV" />
+                <word id="7" cont="上" pos="v" parent="-1" relate="HED" />
+                <word id="8" cont="寒山" pos="n" parent="7" relate="POB" />
+                <word id="9" cont="看" pos="v" parent="7" relate="COO" />
+                <word id="10" cont="萝卜" pos="n" parent="9" relate="VOB" />
+                <word id="11" cont="，" pos="wp" parent="7" relate="WP" />
+                <word id="12" cont="白云" pos="n" parent="13" relate="ATT" />
+                <word id="13" cont="深处" pos="nl" parent="14" relate="ADV" />
+                <word id="14" cont="有" pos="v" parent="7" relate="COO" />
+                <word id="15" cont="萝卜" pos="n" parent="14" relate="VOB" />
+                <word id="16" cont="，" pos="wp" parent="7" relate="WP" />
+                <word id="17" cont="停车" pos="v" parent="7" relate="COO" />
+                <word id="18" cont="坐" pos="v" parent="17" relate="COO" />
+                <word id="19" cont="爱" pos="v" parent="17" relate="COO" />
+                <word id="20" cont="种" pos="v" parent="19" relate="VOB" />
+                <word id="21" cont="萝卜" pos="n" parent="20" relate="VOB" />
+                <word id="22" cont="，" pos="wp" parent="7" relate="WP" />
+                <word id="23" cont="霜叶" pos="n" parent="24" relate="SBV" />
+                <word id="24" cont="红" pos="a" parent="7" relate="COO" />
+                <word id="25" cont="于" pos="p" parent="24" relate="CMP" />
+                <word id="26" cont="胡萝卜" pos="n" parent="25" relate="POB" />
+                <word id="27" cont="。" pos="wp" parent="7" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="晚上 吃 的 羊杂 ， 哦耶 ……">
+                <word id="0" cont="晚上" pos="nt" parent="1" relate="ADV" />
+                <word id="1" cont="吃" pos="v" parent="3" relate="ATT" />
+                <word id="2" cont="的" pos="u" parent="1" relate="RAD" />
+                <word id="3" cont="羊杂" pos="a" parent="-1" relate="HED" />
+                <word id="4" cont="，" pos="wp" parent="3" relate="WP" />
+                <word id="5" cont="哦耶" pos="nh" parent="3" relate="COO" />
+                <word id="6" cont="……" pos="wp" parent="3" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="有爱 用 黑莓 手机 的 吗 ？">
+                <word id="0" cont="有爱" pos="v" parent="-1" relate="HED" />
+                <word id="1" cont="用" pos="p" parent="3" relate="ADV" />
+                <word id="2" cont="黑莓" pos="n" parent="1" relate="POB" />
+                <word id="3" cont="手机" pos="n" parent="0" relate="VOB" />
+                <word id="4" cont="的" pos="u" parent="0" relate="RAD" />
+                <word id="5" cont="吗" pos="u" parent="0" relate="RAD" />
+                <word id="6" cont="？" pos="wp" parent="0" relate="WP" />
+            </sent>
+            <sent id="1" cont="？">
+                <word id="0" cont="？" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="2" cont="？">
+                <word id="0" cont="？" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="3" cont="可以 讨论 一下 啊 ~">
+                <word id="0" cont="可以" pos="v" parent="1" relate="ADV" />
+                <word id="1" cont="讨论" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="一下" pos="m" parent="1" relate="CMP" />
+                <word id="3" cont="啊" pos="u" parent="2" relate="RAD" />
+                <word id="4" cont="~" pos="v" parent="1" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="菜 休息 一下 ， 上 广告 。">
+                <word id="0" cont="菜" pos="n" parent="1" relate="FOB" />
+                <word id="1" cont="休息" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="一下" pos="m" parent="1" relate="CMP" />
+                <word id="3" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="4" cont="上" pos="nd" parent="5" relate="ATT" />
+                <word id="5" cont="广告" pos="n" parent="1" relate="COO" />
+                <word id="6" cont="。" pos="wp" parent="1" relate="WP" />
+            </sent>
+            <sent id="1" cont="威海 文化 中路 文化 名居 附近 新 开张 一 家 《 高 府 私房菜 》 ， 特邀 人民 大会堂 特 一级 厨师 亲 授 弟子 张 思寿 掌勺 ， 开业 在即 ， 急 招 凉菜工 、 配菜工 、 洗菜工 、 服务员 若干 名 ， 不 知道 上 围脖 的 这些 潮 人们 有 没 有 有 意向 的 。">
+                <word id="0" cont="威海" pos="ns" parent="2" relate="ATT" />
+                <word id="1" cont="文化" pos="n" parent="2" relate="ATT" />
+                <word id="2" cont="中路" pos="n" parent="3" relate="ATT" />
+                <word id="3" cont="文化" pos="n" parent="4" relate="ATT" />
+                <word id="4" cont="名居" pos="n" parent="5" relate="ATT" />
+                <word id="5" cont="附近" pos="nd" parent="7" relate="ADV" />
+                <word id="6" cont="新" pos="d" parent="7" relate="ADV" />
+                <word id="7" cont="开张" pos="v" parent="-1" relate="HED" />
+                <word id="8" cont="一" pos="m" parent="9" relate="ATT" />
+                <word id="9" cont="家" pos="q" parent="13" relate="ATT" />
+                <word id="10" cont="《" pos="wp" parent="13" relate="WP" />
+                <word id="11" cont="高" pos="a" parent="12" relate="ATT" />
+                <word id="12" cont="府" pos="n" parent="13" relate="ATT" />
+                <word id="13" cont="私房菜" pos="n" parent="7" relate="VOB" />
+                <word id="14" cont="》" pos="wp" parent="13" relate="WP" />
+                <word id="15" cont="，" pos="wp" parent="7" relate="WP" />
+                <word id="16" cont="特邀" pos="v" parent="7" relate="COO" />
+                <word id="17" cont="人民" pos="n" parent="18" relate="ATT" />
+                <word id="18" cont="大会堂" pos="n" parent="21" relate="ATT" />
+                <word id="19" cont="特" pos="d" parent="20" relate="ADV" />
+                <word id="20" cont="一级" pos="b" parent="21" relate="ATT" />
+                <word id="21" cont="厨师" pos="n" parent="16" relate="DBL" />
+                <word id="22" cont="亲" pos="a" parent="24" relate="ATT" />
+                <word id="23" cont="授" pos="v" parent="22" relate="COO" />
+                <word id="24" cont="弟子" pos="n" parent="25" relate="ATT" />
+                <word id="25" cont="张" pos="nh" parent="26" relate="SBV" />
+                <word id="26" cont="思寿" pos="v" parent="16" relate="COO" />
+                <word id="27" cont="掌勺" pos="n" parent="26" relate="VOB" />
+                <word id="28" cont="，" pos="wp" parent="16" relate="WP" />
+                <word id="29" cont="开业" pos="v" parent="16" relate="COO" />
+                <word id="30" cont="在即" pos="v" parent="29" relate="CMP" />
+                <word id="31" cont="，" pos="wp" parent="16" relate="WP" />
+                <word id="32" cont="急" pos="a" parent="33" relate="ADV" />
+                <word id="33" cont="招" pos="v" parent="16" relate="COO" />
+                <word id="34" cont="凉菜工" pos="n" parent="42" relate="ATT" />
+                <word id="35" cont="、" pos="wp" parent="36" relate="WP" />
+                <word id="36" cont="配菜工" pos="n" parent="34" relate="COO" />
+                <word id="37" cont="、" pos="wp" parent="38" relate="WP" />
+                <word id="38" cont="洗菜工" pos="n" parent="34" relate="COO" />
+                <word id="39" cont="、" pos="wp" parent="40" relate="WP" />
+                <word id="40" cont="服务员" pos="n" parent="34" relate="COO" />
+                <word id="41" cont="若干" pos="m" parent="42" relate="ATT" />
+                <word id="42" cont="名" pos="q" parent="33" relate="VOB" />
+                <word id="43" cont="，" pos="wp" parent="7" relate="WP" />
+                <word id="44" cont="不" pos="d" parent="45" relate="ADV" />
+                <word id="45" cont="知道" pos="v" parent="7" relate="COO" />
+                <word id="46" cont="上" pos="nd" parent="47" relate="ADV" />
+                <word id="47" cont="围脖" pos="v" parent="51" relate="ATT" />
+                <word id="48" cont="的" pos="u" parent="47" relate="RAD" />
+                <word id="49" cont="这些" pos="r" parent="51" relate="ATT" />
+                <word id="50" cont="潮" pos="n" parent="51" relate="ATT" />
+                <word id="51" cont="人们" pos="n" parent="52" relate="SBV" />
+                <word id="52" cont="有" pos="v" parent="45" relate="VOB" />
+                <word id="53" cont="没" pos="d" parent="54" relate="ADV" />
+                <word id="54" cont="有" pos="v" parent="52" relate="COO" />
+                <word id="55" cont="有" pos="v" parent="54" relate="COO" />
+                <word id="56" cont="意向" pos="n" parent="55" relate="VOB" />
+                <word id="57" cont="的" pos="u" parent="55" relate="RAD" />
+                <word id="58" cont="。" pos="wp" parent="7" relate="WP" />
+            </sent>
+            <sent id="2" cont="。">
+                <word id="0" cont="。" pos="wp" parent="-1" relate="HED" />
+            </sent>
+            <sent id="3" cont="朋友 开 的 ， 说 什么 也 得 捧 个 场 不 是 ~">
+                <word id="0" cont="朋友" pos="n" parent="1" relate="SBV" />
+                <word id="1" cont="开" pos="v" parent="10" relate="ATT" />
+                <word id="2" cont="的" pos="u" parent="1" relate="RAD" />
+                <word id="3" cont="，" pos="wp" parent="1" relate="WP" />
+                <word id="4" cont="说" pos="v" parent="1" relate="COO" />
+                <word id="5" cont="什么" pos="r" parent="8" relate="SBV" />
+                <word id="6" cont="也" pos="d" parent="7" relate="ADV" />
+                <word id="7" cont="得" pos="v" parent="8" relate="ADV" />
+                <word id="8" cont="捧" pos="v" parent="4" relate="VOB" />
+                <word id="9" cont="个" pos="q" parent="10" relate="ATT" />
+                <word id="10" cont="场" pos="n" parent="12" relate="SBV" />
+                <word id="11" cont="不" pos="d" parent="12" relate="ADV" />
+                <word id="12" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="13" cont="~" pos="n" parent="12" relate="VOB" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="n" parser="y" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="又 出来 微博 了 。">
+                <word id="0" cont="又" pos="d" parent="1" relate="ADV" />
+                <word id="1" cont="出来" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="微博" pos="v" parent="1" relate="COO" />
+                <word id="3" cont="了" pos="u" parent="1" relate="RAD" />
+                <word id="4" cont="。" pos="wp" parent="1" relate="WP" />
+            </sent>
+            <sent id="1" cont="呵呵 ， 是 类似 懒人 博客 、 快速 食品 的 意思 吧 ？">
+                <word id="0" cont="呵呵" pos="o" parent="2" relate="SBV" />
+                <word id="1" cont="，" pos="wp" parent="0" relate="WP" />
+                <word id="2" cont="是" pos="v" parent="-1" relate="HED" />
+                <word id="3" cont="类似" pos="v" parent="10" relate="ATT" />
+                <word id="4" cont="懒人" pos="n" parent="5" relate="ATT" />
+                <word id="5" cont="博客" pos="n" parent="3" relate="VOB" />
+                <word id="6" cont="、" pos="wp" parent="8" relate="WP" />
+                <word id="7" cont="快速" pos="b" parent="8" relate="ATT" />
+                <word id="8" cont="食品" pos="n" parent="5" relate="COO" />
+                <word id="9" cont="的" pos="u" parent="3" relate="RAD" />
+                <word id="10" cont="意思" pos="n" parent="2" relate="VOB" />
+                <word id="11" cont="吧" pos="u" parent="2" relate="RAD" />
+                <word id="12" cont="？" pos="wp" parent="2" relate="WP" />
+            </sent>
+            <sent id="2" cont="多 写 还 不 成 ？">
+                <word id="0" cont="多" pos="d" parent="1" relate="ADV" />
+                <word id="1" cont="写" pos="v" parent="-1" relate="HED" />
+                <word id="2" cont="还" pos="d" parent="3" relate="ADV" />
+                <word id="3" cont="不" pos="d" parent="4" relate="ADV" />
+                <word id="4" cont="成" pos="v" parent="1" relate="CMP" />
+                <word id="5" cont="？" pos="wp" parent="1" relate="WP" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
+
